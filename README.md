@@ -131,3 +131,50 @@ direction  = up  if score > +0.15
 ## Customizing the universe
 
 Drop a `data/universe.txt` file with one ticker per line. Comments (`#`) and blanks are ignored. `load_universe()` will prefer it over the built-in S&P 100 list.
+
+## Publishing daily results to GitHub
+
+The `daily` command pushes a fresh snapshot of `data/` to your remote at the end of every run:
+
+```powershell
+python -m stock_app.cli daily            # default: also commits + pushes
+python -m stock_app.cli daily --no-push   # local-only refresh
+```
+
+Stage 6 (`commit + push data/ artifacts`) is a no-op if:
+- there is no `origin` remote configured, OR
+- nothing changed in `data/` since the last commit.
+
+What gets pushed:
+- `data/prices/*.csv`, `data/sentiment/*.json`
+- `data/rag_docs/<TICKER>/*.txt`, `data/rag_meta/<TICKER>.json`
+- `data/embeddings/all_docs.npy`, `data/faiss/rag.index`, `data/faiss/docs_meta.json`
+- `data/predictions/*.json`
+
+What stays local (via `.gitignore`):
+- `cache/stocks.db` (rebuildable from CSVs)
+- `logs/`, `__pycache__/`, `.venv/`
+- `data/portfolios.json` (your personal holdings)
+- `data/universe.txt` (your local universe override)
+
+## Deploying the dashboard
+
+The Streamlit app only reads pre-computed files in `data/predictions/`, so the deployed app has zero ML/yfinance work to do at runtime — fast cold-start, free-tier friendly.
+
+Because this repo is **private**, free Streamlit Community Cloud won't deploy it. Options:
+
+| Option | Cost | Notes |
+|---|---|---|
+| **Run locally** | free | `streamlit run app.py` — what you're already doing. |
+| **Streamlit Cloud (paid)** | $$ | Supports private repos. Connect to GitHub, auto-redeploy on every push from the daily job. |
+| **Render / Railway / Fly.io** | free tier | Connect the private repo, run `streamlit run app.py --server.port $PORT --server.address 0.0.0.0`. Add a `Procfile` if needed. |
+| **Make the repo public** | free | `gh repo edit RoopeshAithal/stock-rag-app --visibility public` → then Streamlit Community Cloud will deploy it. Anything in `data/` becomes public — fine since it's just market data and forecasts. |
+
+### Minimum config for Streamlit Cloud (when ready)
+
+1. **App entry point**: `app.py`
+2. **Python version**: 3.12 (matches local)
+3. **Requirements file**: `requirements.txt`
+4. **Secrets**: none required — no API keys used.
+
+Streamlit Cloud watches the default branch; every successful `daily` job push triggers a redeploy within ~1 minute.
