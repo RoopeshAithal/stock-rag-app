@@ -1,0 +1,3 @@
+INTC regime from 2026-02-03 to 2026-03-03.
+Start price: 49.25, End price: 43.10.
+Window return: -12.49%, Volatility: 2.90%.

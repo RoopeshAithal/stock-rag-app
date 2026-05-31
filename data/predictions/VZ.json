@@ -1,0 +1,41 @@
+{
+  "ticker": "VZ",
+  "score": 0.10807721085820458,
+  "direction": "neutral",
+  "confidence": 0.30284074273197925,
+  "primary_horizon": 5,
+  "expected_return": 0.01887706715512354,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0043321244381134385,
+      "expected_min": -0.0043321244381134385,
+      "expected_max": -0.0043321244381134385,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.01887706715512354,
+      "expected_min": -0.015233896004498737,
+      "expected_max": 0.032820005761146034,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.03591364721215401,
+      "expected_min": -0.035006316281586514,
+      "expected_max": 0.055001967385502705,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.18655993637727625,
+    "momentum": -0.02289807999033401,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 47.810001373291016,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

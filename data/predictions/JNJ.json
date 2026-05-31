@@ -1,0 +1,41 @@
+{
+  "ticker": "JNJ",
+  "score": 0.030322369162586012,
+  "direction": "neutral",
+  "confidence": 0.6406690498731954,
+  "primary_horizon": 5,
+  "expected_return": 0.0059393522768128705,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.002479996772384141,
+      "expected_min": 0.002479996772384141,
+      "expected_max": 0.002479996772384141,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0059393522768128705,
+      "expected_min": -0.006670748478962108,
+      "expected_max": 0.016406790315041754,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.00039498690329079487,
+      "expected_min": -0.03165530992434511,
+      "expected_max": 0.029542054401062345,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.05932378249603959,
+    "momentum": -0.07002062917366816,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 225.3300018310547,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

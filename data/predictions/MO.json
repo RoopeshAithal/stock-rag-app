@@ -1,0 +1,41 @@
+{
+  "ticker": "MO",
+  "score": 0.07041655756750664,
+  "direction": "neutral",
+  "confidence": 0.4325914009920831,
+  "primary_horizon": 5,
+  "expected_return": 0.022619913813292113,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.007447847049814183,
+      "expected_min": 0.007447847049814183,
+      "expected_max": 0.007447847049814183,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.022619913813292113,
+      "expected_min": -0.0025616816011703736,
+      "expected_max": 0.040047800689013105,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.03570257800081596,
+      "expected_min": -0.02619334587250488,
+      "expected_max": 0.061252162310747316,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.22241858816961968,
+    "momentum": -0.2081980106132329,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 69.58000183105469,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

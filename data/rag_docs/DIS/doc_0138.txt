@@ -1,0 +1,3 @@
+DIS regime from 2025-11-18 to 2025-12-16.
+Start price: 105.57, End price: 111.62.
+Window return: 5.74%, Volatility: 1.42%.

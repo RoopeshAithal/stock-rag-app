@@ -1,0 +1,3 @@
+AMGN regime from 2025-10-30 to 2025-11-26.
+Start price: 285.78, End price: 339.63.
+Window return: 18.85%, Volatility: 2.17%.

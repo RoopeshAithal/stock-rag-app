@@ -1,0 +1,3 @@
+GE regime from 2025-10-22 to 2025-11-18.
+Start price: 297.12, End price: 295.24.
+Window return: -0.63%, Volatility: 1.34%.

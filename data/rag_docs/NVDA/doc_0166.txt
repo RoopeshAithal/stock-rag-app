@@ -1,0 +1,3 @@
+NVDA regime from 2025-12-30 to 2026-01-28.
+Start price: 187.53, End price: 191.51.
+Window return: 2.12%, Volatility: 1.62%.

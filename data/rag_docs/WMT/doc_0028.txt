@@ -1,0 +1,3 @@
+WMT regime from 2025-06-12 to 2025-07-11.
+Start price: 94.04, End price: 93.62.
+Window return: -0.45%, Volatility: 1.06%.

@@ -1,0 +1,3 @@
+ABBV regime from 2026-03-26 to 2026-04-23.
+Start price: 209.38, End price: 200.95.
+Window return: -4.03%, Volatility: 1.51%.

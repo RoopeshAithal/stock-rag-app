@@ -1,0 +1,3 @@
+LMT regime from 2025-10-14 to 2025-11-10.
+Start price: 498.74, End price: 446.34.
+Window return: -10.51%, Volatility: 1.22%.

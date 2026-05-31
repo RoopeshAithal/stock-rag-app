@@ -1,0 +1,3 @@
+AMD regime from 2026-03-03 to 2026-03-30.
+Start price: 190.95, End price: 196.04.
+Window return: 2.67%, Volatility: 3.49%.

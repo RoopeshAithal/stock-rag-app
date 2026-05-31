@@ -1,0 +1,3 @@
+DUK regime from 2025-07-10 to 2025-08-06.
+Start price: 114.18, End price: 120.98.
+Window return: 5.96%, Volatility: 0.87%.

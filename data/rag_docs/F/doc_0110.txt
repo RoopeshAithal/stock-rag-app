@@ -1,0 +1,3 @@
+F regime from 2025-10-09 to 2025-11-05.
+Start price: 11.11, End price: 12.66.
+Window return: 14.00%, Volatility: 3.24%.

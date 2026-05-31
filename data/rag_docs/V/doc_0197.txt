@@ -1,0 +1,3 @@
+V regime from 2026-02-13 to 2026-03-13.
+Start price: 313.43, End price: 306.50.
+Window return: -2.21%, Volatility: 1.35%.

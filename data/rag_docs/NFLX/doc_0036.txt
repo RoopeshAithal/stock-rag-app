@@ -1,0 +1,3 @@
+NFLX regime from 2025-06-25 to 2025-07-23.
+Start price: 127.53, End price: 117.68.
+Window return: -7.72%, Volatility: 2.05%.

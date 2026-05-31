@@ -1,0 +1,41 @@
+{
+  "ticker": "SPG",
+  "score": 0.010050100760202825,
+  "direction": "neutral",
+  "confidence": 0.6008202470936904,
+  "primary_horizon": 5,
+  "expected_return": -0.0040922987997972895,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0014109317080280626,
+      "expected_min": 0.0014109317080280626,
+      "expected_max": 0.0014109317080280626,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0040922987997972895,
+      "expected_min": -0.012815101698175613,
+      "expected_max": 0.007823651332826231,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.001688503047397305,
+      "expected_min": -0.03681286794398194,
+      "expected_max": 0.0259723341597349,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.04090015883806212,
+    "momentum": 0.029445045041890723,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 204.91000366210935,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

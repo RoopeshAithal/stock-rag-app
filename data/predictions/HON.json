@@ -1,0 +1,41 @@
+{
+  "ticker": "HON",
+  "score": 0.2323485719419065,
+  "direction": "up",
+  "confidence": 0.5895946469592184,
+  "primary_horizon": 5,
+  "expected_return": 0.010844255670157576,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.007116865798194871,
+      "expected_min": 0.007116865798194871,
+      "expected_max": 0.007116865798194871,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.010844255670157576,
+      "expected_min": -0.005771089285185738,
+      "expected_max": 0.0285194232608728,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.009250282695812673,
+      "expected_min": -0.037009153944030315,
+      "expected_max": 0.050397079106209275,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.10801945964014542,
+    "momentum": 0.5222405848505571,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 237.8600006103516,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

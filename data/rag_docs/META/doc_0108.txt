@@ -1,0 +1,3 @@
+META regime from 2025-10-07 to 2025-11-03.
+Start price: 711.89, End price: 636.65.
+Window return: -10.57%, Volatility: 2.96%.

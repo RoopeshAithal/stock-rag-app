@@ -1,0 +1,18 @@
+{
+  "ticker": "COST",
+  "avg_polarity": 0.10833333333333334,
+  "items": [
+    {
+      "date": "2026-05-31",
+      "title": "COST sees strong demand in key markets",
+      "polarity": 0.21666666666666667,
+      "source": "dummy"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "Analysts remain cautious on COST valuation",
+      "polarity": 0.0,
+      "source": "dummy"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+ADBE regime from 2025-09-22 to 2025-10-17.
+Start price: 364.08, End price: 333.26.
+Window return: -8.47%, Volatility: 1.40%.

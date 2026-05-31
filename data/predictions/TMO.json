@@ -1,0 +1,41 @@
+{
+  "ticker": "TMO",
+  "score": -0.02913985719330578,
+  "direction": "neutral",
+  "confidence": 0.3333425100136241,
+  "primary_horizon": 5,
+  "expected_return": -0.018811083481698,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.009489254963791494,
+      "expected_min": -0.009489254963791494,
+      "expected_max": -0.009489254963791494,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.018811083481698,
+      "expected_min": -0.0395389082902867,
+      "expected_max": 0.0009797056479664112,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.06793131661199418,
+      "expected_min": -0.10067721516861536,
+      "expected_max": 0.019341897547939503,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.18592298668763496,
+    "momentum": 0.1405165649461501,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 492.510009765625,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

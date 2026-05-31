@@ -1,0 +1,3 @@
+WMT regime from 2026-02-10 to 2026-03-10.
+Start price: 126.20, End price: 124.63.
+Window return: -1.25%, Volatility: 1.89%.

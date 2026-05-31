@@ -1,0 +1,41 @@
+{
+  "ticker": "SCHW",
+  "score": -0.07888576667625516,
+  "direction": "neutral",
+  "confidence": 0.5366868490400657,
+  "primary_horizon": 5,
+  "expected_return": -0.007305949876070017,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0011602087031457819,
+      "expected_min": 0.0011602087031457819,
+      "expected_max": 0.0011602087031457819,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.007305949876070017,
+      "expected_min": -0.021082579642184164,
+      "expected_max": 0.01648001405213665,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.02062706238086809,
+      "expected_min": -0.05006657990605118,
+      "expected_max": 0.03301193531996973,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.07292978603947235,
+    "momentum": -0.21362513441061884,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 87.3499984741211,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

@@ -1,0 +1,3 @@
+QCOM regime from 2025-10-17 to 2025-11-13.
+Start price: 161.58, End price: 172.51.
+Window return: 6.76%, Volatility: 3.26%.

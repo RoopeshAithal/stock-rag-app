@@ -1,0 +1,41 @@
+{
+  "ticker": "ABBV",
+  "score": 0.07383493229350584,
+  "direction": "neutral",
+  "confidence": 0.5840950902446145,
+  "primary_horizon": 5,
+  "expected_return": 0.0014168265671383406,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0029655638579780485,
+      "expected_min": -0.0029655638579780485,
+      "expected_max": -0.0029655638579780485,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0014168265671383406,
+      "expected_min": -0.018132943520301557,
+      "expected_max": 0.017179958433922803,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.006260157509896502,
+      "expected_min": -0.05084361079299889,
+      "expected_max": 0.03346793777558078,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.014167317702788307,
+    "momentum": 0.1502820225848167,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 217.72000122070312,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:36+00:00"
+}

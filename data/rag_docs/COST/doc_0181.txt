@@ -1,0 +1,3 @@
+COST regime from 2026-01-22 to 2026-02-19.
+Start price: 973.43, End price: 986.39.
+Window return: 1.33%, Volatility: 1.39%.

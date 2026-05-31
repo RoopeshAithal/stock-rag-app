@@ -1,0 +1,3 @@
+VZ regime from 2026-01-16 to 2026-02-13.
+Start price: 38.33, End price: 48.28.
+Window return: 25.96%, Volatility: 2.79%.

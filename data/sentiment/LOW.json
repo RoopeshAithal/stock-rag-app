@@ -1,0 +1,18 @@
+{
+  "ticker": "LOW",
+  "avg_polarity": 0.07222222222222223,
+  "items": [
+    {
+      "date": "2026-05-31",
+      "title": "LOW sees strong demand in key markets",
+      "polarity": 0.14444444444444446,
+      "source": "dummy"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "Analysts remain cautious on LOW valuation",
+      "polarity": 0.0,
+      "source": "dummy"
+    }
+  ]
+}

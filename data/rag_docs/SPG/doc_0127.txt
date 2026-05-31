@@ -1,0 +1,3 @@
+SPG regime from 2025-11-03 to 2025-12-01.
+Start price: 172.53, End price: 180.80.
+Window return: 4.79%, Volatility: 1.09%.

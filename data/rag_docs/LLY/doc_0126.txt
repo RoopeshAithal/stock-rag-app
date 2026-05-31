@@ -1,0 +1,3 @@
+LLY regime from 2025-10-31 to 2025-11-28.
+Start price: 858.68, End price: 1071.83.
+Window return: 24.82%, Volatility: 1.80%.

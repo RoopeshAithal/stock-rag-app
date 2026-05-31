@@ -1,0 +1,41 @@
+{
+  "ticker": "NFLX",
+  "score": -0.12496654288694325,
+  "direction": "neutral",
+  "confidence": 0.4037129187139242,
+  "primary_horizon": 5,
+  "expected_return": -0.006260928439405811,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0020832310595850665,
+      "expected_min": 0.0020832310595850665,
+      "expected_max": 0.0020832310595850665,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.006260928439405811,
+      "expected_min": -0.025107682477355897,
+      "expected_max": 0.01996809066869889,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0522735624438881,
+      "expected_min": -0.07145857909275577,
+      "expected_max": 0.12046800974406621,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.06252760461565302,
+    "momentum": -0.38456469081927813,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 86.0199966430664,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

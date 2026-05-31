@@ -1,0 +1,3 @@
+BK regime from 2026-01-02 to 2026-01-30.
+Start price: 116.06, End price: 119.45.
+Window return: 2.91%, Volatility: 1.38%.

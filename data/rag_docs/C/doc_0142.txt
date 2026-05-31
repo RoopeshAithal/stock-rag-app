@@ -1,0 +1,3 @@
+C regime from 2025-11-24 to 2025-12-22.
+Start price: 98.71, End price: 116.92.
+Window return: 18.46%, Volatility: 1.09%.

@@ -1,0 +1,41 @@
+{
+  "ticker": "CMCSA",
+  "score": -0.017396852627080628,
+  "direction": "neutral",
+  "confidence": 0.42517089791861196,
+  "primary_horizon": 5,
+  "expected_return": 0.015163925257734957,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.006469994013196467,
+      "expected_min": 0.006469994013196467,
+      "expected_max": 0.006469994013196467,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.015163925257734957,
+      "expected_min": -0.008343546323849604,
+      "expected_max": 0.041411603844090504,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.0044489924076805635,
+      "expected_min": -0.03731744629233995,
+      "expected_max": 0.07670164271932774,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.15048755674581252,
+    "momentum": -0.38102432555551186,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 24.8700008392334,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

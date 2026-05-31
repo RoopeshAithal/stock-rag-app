@@ -1,0 +1,3 @@
+UNP regime from 2026-03-10 to 2026-04-07.
+Start price: 248.92, End price: 244.84.
+Window return: -1.64%, Volatility: 1.06%.

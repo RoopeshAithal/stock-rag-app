@@ -1,0 +1,3 @@
+CMCSA regime from 2026-03-17 to 2026-04-14.
+Start price: 29.73, End price: 28.14.
+Window return: -5.36%, Volatility: 1.49%.

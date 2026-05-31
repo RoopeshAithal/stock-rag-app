@@ -1,0 +1,41 @@
+{
+  "ticker": "AMT",
+  "score": -0.010298704874299014,
+  "direction": "neutral",
+  "confidence": 0.656741657894168,
+  "primary_horizon": 5,
+  "expected_return": -0.013420038159071713,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.00739954768889588,
+      "expected_min": -0.00739954768889588,
+      "expected_max": -0.00739954768889588,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.013420038159071713,
+      "expected_min": -0.02531203259527347,
+      "expected_max": 0.006898648554948006,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0012089425762782159,
+      "expected_min": -0.04914642347381074,
+      "expected_max": 0.04488121659617533,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.13340050522222102,
+    "momentum": 0.11578293690048276,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 186.9600067138672,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

@@ -1,0 +1,3 @@
+DE regime from 2025-10-20 to 2025-11-14.
+Start price: 459.50, End price: 473.20.
+Window return: 2.98%, Volatility: 1.14%.

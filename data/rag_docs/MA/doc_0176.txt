@@ -1,0 +1,3 @@
+MA regime from 2026-01-14 to 2026-02-11.
+Start price: 545.88, End price: 536.54.
+Window return: -1.71%, Volatility: 1.56%.

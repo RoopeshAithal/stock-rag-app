@@ -1,0 +1,3 @@
+LOW regime from 2026-02-17 to 2026-03-16.
+Start price: 279.82, End price: 240.95.
+Window return: -13.89%, Volatility: 1.75%.

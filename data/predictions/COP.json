@@ -1,0 +1,41 @@
+{
+  "ticker": "COP",
+  "score": 0.00185181052464288,
+  "direction": "neutral",
+  "confidence": 0.40337989638094346,
+  "primary_horizon": 5,
+  "expected_return": 0.020926736076258223,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.009232373684152662,
+      "expected_min": 0.009232373684152662,
+      "expected_max": 0.009232373684152662,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.020926736076258223,
+      "expected_min": -0.007331153910960342,
+      "expected_max": 0.03380504385544485,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.08621195060087758,
+      "expected_min": -0.02762233488904482,
+      "expected_max": 0.11417513342983851,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.2062651369670903,
+    "momentum": -0.4098247487518965,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 113.9800033569336,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

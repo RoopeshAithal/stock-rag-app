@@ -1,0 +1,3 @@
+ACN regime from 2026-03-27 to 2026-04-24.
+Start price: 190.98, End price: 178.36.
+Window return: -6.61%, Volatility: 2.70%.

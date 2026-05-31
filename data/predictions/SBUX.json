@@ -1,0 +1,41 @@
+{
+  "ticker": "SBUX",
+  "score": 0.10391829163906989,
+  "direction": "neutral",
+  "confidence": 0.47340770539630145,
+  "primary_horizon": 5,
+  "expected_return": 0.033170359528965056,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0035656148222953377,
+      "expected_min": 0.0035656148222953377,
+      "expected_max": 0.0035656148222953377,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.033170359528965056,
+      "expected_min": -0.006270790980502794,
+      "expected_max": 0.03592226824971473,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.04076512202252493,
+      "expected_min": -0.027972337455388973,
+      "expected_max": 0.08984409070636841,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.32005070144174547,
+    "momentum": -0.2592457524948984,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 99.16000366210938,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

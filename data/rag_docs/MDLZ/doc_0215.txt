@@ -1,0 +1,3 @@
+MDLZ regime from 2026-03-12 to 2026-04-09.
+Start price: 53.88, End price: 59.09.
+Window return: 9.66%, Volatility: 1.39%.

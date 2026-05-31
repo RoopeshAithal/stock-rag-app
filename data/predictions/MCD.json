@@ -1,0 +1,41 @@
+{
+  "ticker": "MCD",
+  "score": -0.1047056825432291,
+  "direction": "neutral",
+  "confidence": 0.7283728559618187,
+  "primary_horizon": 5,
+  "expected_return": -0.010900747264710542,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.003946431759153468,
+      "expected_min": 0.003946431759153468,
+      "expected_max": 0.003946431759153468,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.010900747264710542,
+      "expected_min": -0.015163464418745332,
+      "expected_max": 0.012218467321918104,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.04022013675508015,
+      "expected_min": -0.05540855209508737,
+      "expected_max": 0.01728579763005087,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.10857774990404112,
+    "momentum": -0.24027824752625063,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 279.20001220703125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

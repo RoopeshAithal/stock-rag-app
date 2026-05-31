@@ -1,0 +1,41 @@
+{
+  "ticker": "MDT",
+  "score": -0.203891054954521,
+  "direction": "down",
+  "confidence": 0.5413488807243232,
+  "primary_horizon": 5,
+  "expected_return": -0.020467682396809017,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.00786051443678606,
+      "expected_min": -0.00786051443678606,
+      "expected_max": -0.00786051443678606,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.020467682396809017,
+      "expected_min": -0.027850718693891097,
+      "expected_max": 0.0017279098782401747,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.08278913860504192,
+      "expected_min": -0.09278962756468108,
+      "expected_max": 0.0017279098782401747,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.20186577125387803,
+    "momentum": -0.4154161199808289,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 73.80999755859375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

@@ -1,0 +1,3 @@
+AVGO regime from 2025-08-19 to 2025-09-16.
+Start price: 293.23, End price: 357.95.
+Window return: 22.07%, Volatility: 3.39%.

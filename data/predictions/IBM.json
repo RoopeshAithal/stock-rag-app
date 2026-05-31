@@ -1,0 +1,41 @@
+{
+  "ticker": "IBM",
+  "score": 0.23031945388596511,
+  "direction": "up",
+  "confidence": 0.4531157025288281,
+  "primary_horizon": 5,
+  "expected_return": -0.012577644822772915,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.005929253115392186,
+      "expected_min": -0.005929253115392186,
+      "expected_max": -0.005929253115392186,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.012577644822772915,
+      "expected_min": -0.027761686619414104,
+      "expected_max": 0.005410590327055142,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.032041821841347615,
+      "expected_min": -0.08711871130936974,
+      "expected_max": 0.03844856907800306,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.1251173693048035,
+    "momentum": 0.904038239572334,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 297.79998779296875,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

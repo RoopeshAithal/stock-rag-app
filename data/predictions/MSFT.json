@@ -1,0 +1,41 @@
+{
+  "ticker": "MSFT",
+  "score": 0.14946206459861572,
+  "direction": "neutral",
+  "confidence": 0.6251800037733868,
+  "primary_horizon": 5,
+  "expected_return": -0.003683663615004751,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.001106150980756926,
+      "expected_min": -0.001106150980756926,
+      "expected_max": -0.001106150980756926,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.003683663615004751,
+      "expected_min": -0.015673561416112737,
+      "expected_max": 0.01214337153339795,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.0028030832685426834,
+      "expected_min": -0.04839907616450377,
+      "expected_max": 0.03952339918340562,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.03681998351440903,
+    "momentum": 0.4873512989638452,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 450.239990234375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

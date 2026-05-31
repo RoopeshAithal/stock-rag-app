@@ -1,0 +1,41 @@
+{
+  "ticker": "BAC",
+  "score": -0.024343355419317515,
+  "direction": "neutral",
+  "confidence": 0.41543227917062936,
+  "primary_horizon": 5,
+  "expected_return": 0.0011317257916943046,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.001962673156923922,
+      "expected_min": -0.001962673156923922,
+      "expected_max": -0.001962673156923922,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0011317257916943046,
+      "expected_min": -0.024643128976796613,
+      "expected_max": 0.02138310999063473,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0009249644953692072,
+      "expected_min": -0.05702406272222939,
+      "expected_max": 0.05714387408078214,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.011316774768998393,
+    "momentum": -0.17222803156827793,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 51.59999847412109,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

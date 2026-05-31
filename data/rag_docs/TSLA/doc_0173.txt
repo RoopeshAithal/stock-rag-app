@@ -1,0 +1,3 @@
+TSLA regime from 2026-01-09 to 2026-02-06.
+Start price: 445.01, End price: 411.11.
+Window return: -7.62%, Volatility: 2.44%.

@@ -1,0 +1,3 @@
+TMO regime from 2025-11-06 to 2025-12-04.
+Start price: 565.00, End price: 574.24.
+Window return: 1.64%, Volatility: 1.19%.

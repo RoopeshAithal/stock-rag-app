@@ -1,0 +1,41 @@
+{
+  "ticker": "GD",
+  "score": -0.006878620157920307,
+  "direction": "neutral",
+  "confidence": 0.6386328903290082,
+  "primary_horizon": 5,
+  "expected_return": -0.007920374906597171,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.006908883677205902,
+      "expected_min": 0.006908883677205902,
+      "expected_max": 0.006908883677205902,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.007920374906597171,
+      "expected_min": -0.020067694371186606,
+      "expected_max": 0.014437100398089698,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.012822958948782793,
+      "expected_min": -0.05764054653425198,
+      "expected_max": 0.019379159706676495,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.07903854239197794,
+    "momentum": 0.03657994790467332,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 346.82000732421875,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

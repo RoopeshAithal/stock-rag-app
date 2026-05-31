@@ -1,0 +1,3 @@
+BK regime from 2025-10-01 to 2025-10-28.
+Start price: 105.42, End price: 107.54.
+Window return: 2.02%, Volatility: 1.19%.

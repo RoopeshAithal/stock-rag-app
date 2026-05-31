@@ -1,0 +1,3 @@
+COST regime from 2025-10-07 to 2025-11-03.
+Start price: 910.94, End price: 925.43.
+Window return: 1.59%, Volatility: 1.32%.

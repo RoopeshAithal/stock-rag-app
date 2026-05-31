@@ -1,0 +1,3 @@
+MDLZ regime from 2025-06-10 to 2025-07-09.
+Start price: 65.07, End price: 65.15.
+Window return: 0.11%, Volatility: 1.29%.

@@ -1,0 +1,41 @@
+{
+  "ticker": "LIN",
+  "score": 0.01700084957514462,
+  "direction": "neutral",
+  "confidence": 0.7183525426387996,
+  "primary_horizon": 5,
+  "expected_return": 0.0011313679313718294,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.003949813162864846,
+      "expected_min": 0.003949813162864846,
+      "expected_max": 0.003949813162864846,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0011313679313718294,
+      "expected_min": -0.00929882026815646,
+      "expected_max": 0.01907582493015888,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.034674627438305725,
+      "expected_min": -0.016425646473670962,
+      "expected_max": 0.04624890594312188,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.011313196623938282,
+    "momentum": -0.034408051344970624,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 497.6900024414063,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

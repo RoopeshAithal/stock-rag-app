@@ -1,0 +1,41 @@
+{
+  "ticker": "BKNG",
+  "score": 0.07718730457705757,
+  "direction": "neutral",
+  "confidence": 0.3357849597341626,
+  "primary_horizon": 5,
+  "expected_return": 0.012830834548427372,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0021900812211278152,
+      "expected_min": -0.0021900812211278152,
+      "expected_max": -0.0021900812211278152,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.012830834548427372,
+      "expected_min": -0.029727554923366373,
+      "expected_max": 0.033169996380189505,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.011649617905302879,
+      "expected_min": -0.0478951330797042,
+      "expected_max": 0.09671749608516993,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.12760883675839624,
+    "momentum": -0.02761260156269072,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 167.42999267578125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

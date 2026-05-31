@@ -1,0 +1,3 @@
+META regime from 2026-01-29 to 2026-02-26.
+Start price: 737.68, End price: 656.45.
+Window return: -11.01%, Volatility: 1.69%.

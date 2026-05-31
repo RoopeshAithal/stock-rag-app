@@ -1,0 +1,3 @@
+AMD regime from 2025-11-04 to 2025-12-02.
+Start price: 250.05, End price: 215.24.
+Window return: -13.92%, Volatility: 4.27%.

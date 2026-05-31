@@ -1,0 +1,41 @@
+{
+  "ticker": "DHR",
+  "score": -0.030514271472038765,
+  "direction": "neutral",
+  "confidence": 0.44577780917571264,
+  "primary_horizon": 5,
+  "expected_return": -0.016806682494487447,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.00040630405856869614,
+      "expected_min": -0.00040630405856869614,
+      "expected_max": -0.00040630405856869614,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.016806682494487447,
+      "expected_min": -0.026424604878496526,
+      "expected_max": 0.014391891955148627,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.05731684339129482,
+      "expected_min": -0.08348157531180253,
+      "expected_max": 0.026864594467752356,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.1665020712518477,
+    "momentum": 0.10356699162406142,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 182.6699981689453,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

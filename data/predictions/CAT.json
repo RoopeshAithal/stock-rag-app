@@ -1,0 +1,41 @@
+{
+  "ticker": "CAT",
+  "score": 0.0766574890873804,
+  "direction": "neutral",
+  "confidence": 0.36258420498869287,
+  "primary_horizon": 5,
+  "expected_return": 0.01592051681936054,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0003304378605082592,
+      "expected_min": -0.0003304378605082592,
+      "expected_max": -0.0003304378605082592,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.01592051681936054,
+      "expected_min": -0.017284993344532797,
+      "expected_max": 0.03908610076596806,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.06799113976405725,
+      "expected_min": -0.04001708571779426,
+      "expected_max": 0.10910554613061789,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.1578735803355205,
+    "momentum": -0.07981989249015506,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 875.8699951171875,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

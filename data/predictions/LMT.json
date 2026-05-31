@@ -1,0 +1,41 @@
+{
+  "ticker": "LMT",
+  "score": 0.13782755584467626,
+  "direction": "neutral",
+  "confidence": 0.6652525544383432,
+  "primary_horizon": 5,
+  "expected_return": 0.016178390950396228,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.007062983657616417,
+      "expected_min": 0.007062983657616417,
+      "expected_max": 0.007062983657616417,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.016178390950396228,
+      "expected_min": -0.007173870472206645,
+      "expected_max": 0.028787184335628657,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0005577603206308512,
+      "expected_min": -0.055627466493325076,
+      "expected_max": 0.06123145455429639,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.16038702009301886,
+    "momentum": 0.11989126377166726,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 530.4500122070312,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

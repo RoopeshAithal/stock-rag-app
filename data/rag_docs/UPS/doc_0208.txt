@@ -1,0 +1,3 @@
+UPS regime from 2026-03-03 to 2026-03-30.
+Start price: 111.35, End price: 93.38.
+Window return: -16.14%, Volatility: 1.72%.

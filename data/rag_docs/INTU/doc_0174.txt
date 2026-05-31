@@ -1,0 +1,3 @@
+INTU regime from 2026-01-12 to 2026-02-09.
+Start price: 633.48, End price: 436.15.
+Window return: -31.15%, Volatility: 3.54%.

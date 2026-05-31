@@ -1,0 +1,41 @@
+{
+  "ticker": "GE",
+  "score": 0.1625586280656721,
+  "direction": "up",
+  "confidence": 0.3987076418052979,
+  "primary_horizon": 5,
+  "expected_return": -0.003331511914429053,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.009250653876383819,
+      "expected_min": -0.009250653876383819,
+      "expected_max": -0.009250653876383819,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.003331511914429053,
+      "expected_min": -0.03522395748511017,
+      "expected_max": 0.017565042970848134,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.030888055306617444,
+      "expected_min": -0.09275691776345271,
+      "expected_max": 0.05092252397684636,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.033302799161746034,
+    "momentum": 0.5251445365995948,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 323.760009765625,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

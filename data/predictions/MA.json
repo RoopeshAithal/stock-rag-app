@@ -1,0 +1,41 @@
+{
+  "ticker": "MA",
+  "score": 0.03103636584821505,
+  "direction": "neutral",
+  "confidence": 0.6023895958089117,
+  "primary_horizon": 5,
+  "expected_return": 0.007205241577695443,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.004484299710573791,
+      "expected_min": 0.004484299710573791,
+      "expected_max": 0.004484299710573791,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.007205241577695443,
+      "expected_min": -0.008524650257736443,
+      "expected_max": 0.023151506933297407,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.0024643723054336374,
+      "expected_min": -0.029727226963159114,
+      "expected_max": 0.03983244486366453,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.07192798624220974,
+    "momentum": -0.08864764646518829,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 493.9800109863281,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

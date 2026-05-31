@@ -1,0 +1,3 @@
+EMR regime from 2025-10-01 to 2025-10-28.
+Start price: 129.60, End price: 132.89.
+Window return: 2.54%, Volatility: 1.58%.

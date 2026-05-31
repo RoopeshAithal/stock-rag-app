@@ -1,0 +1,3 @@
+PYPL regime from 2026-02-24 to 2026-03-23.
+Start price: 46.88, End price: 45.49.
+Window return: -2.96%, Volatility: 1.97%.

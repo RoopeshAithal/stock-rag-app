@@ -1,0 +1,3 @@
+ABT regime from 2026-02-26 to 2026-03-25.
+Start price: 115.54, End price: 104.18.
+Window return: -9.83%, Volatility: 1.30%.

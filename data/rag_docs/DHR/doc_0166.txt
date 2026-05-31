@@ -1,0 +1,3 @@
+DHR regime from 2025-12-30 to 2026-01-28.
+Start price: 230.18, End price: 224.06.
+Window return: -2.66%, Volatility: 1.69%.

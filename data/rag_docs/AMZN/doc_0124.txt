@@ -1,0 +1,3 @@
+AMZN regime from 2025-10-29 to 2025-11-25.
+Start price: 230.30, End price: 229.67.
+Window return: -0.27%, Volatility: 3.11%.

@@ -1,0 +1,3 @@
+KHC regime from 2026-01-07 to 2026-02-04.
+Start price: 22.63, End price: 24.08.
+Window return: 6.39%, Volatility: 2.13%.

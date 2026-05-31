@@ -1,0 +1,3 @@
+IBM regime from 2025-10-16 to 2025-11-12.
+Start price: 270.91, End price: 310.91.
+Window return: 14.76%, Volatility: 2.11%.

@@ -1,0 +1,41 @@
+{
+  "ticker": "MDLZ",
+  "score": -0.0018132748167292503,
+  "direction": "neutral",
+  "confidence": 0.522263912320944,
+  "primary_horizon": 5,
+  "expected_return": -0.0033791243458691222,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.004563284492837239,
+      "expected_min": 0.004563284492837239,
+      "expected_max": 0.004563284492837239,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0033791243458691222,
+      "expected_min": -0.015083954026239455,
+      "expected_max": 0.016717405696283327,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.005017331715085527,
+      "expected_min": -0.04490508765105548,
+      "expected_max": 0.03537907235993729,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.033778387840889504,
+    "momentum": -0.021969158543170556,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 61.16999816894531,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

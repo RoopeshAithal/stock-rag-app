@@ -1,0 +1,3 @@
+BLK regime from 2025-06-16 to 2025-07-15.
+Start price: 967.36, End price: 1030.46.
+Window return: 6.52%, Volatility: 1.70%.

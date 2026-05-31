@@ -1,0 +1,41 @@
+{
+  "ticker": "LLY",
+  "score": 0.42566299684490955,
+  "direction": "up",
+  "confidence": 0.34699646968022974,
+  "primary_horizon": 5,
+  "expected_return": 0.03906784284982183,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.010717990176242665,
+      "expected_min": 0.010717990176242665,
+      "expected_max": 0.010717990176242665,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.03906784284982183,
+      "expected_min": -0.002342587387114836,
+      "expected_max": 0.05600985373155596,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0488584242848734,
+      "expected_min": -0.03636514261536653,
+      "expected_max": 0.10008711580820848,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.37194494796835004,
+    "momentum": 0.7267461873135594,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 1105.0,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

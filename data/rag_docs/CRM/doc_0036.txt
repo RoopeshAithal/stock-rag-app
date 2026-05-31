@@ -1,0 +1,3 @@
+CRM regime from 2025-06-25 to 2025-07-23.
+Start price: 266.20, End price: 265.66.
+Window return: -0.20%, Volatility: 1.14%.

@@ -1,0 +1,3 @@
+LLY regime from 2026-01-02 to 2026-01-30.
+Start price: 1076.71, End price: 1033.64.
+Window return: -4.00%, Volatility: 2.13%.

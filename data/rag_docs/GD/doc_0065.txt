@@ -1,0 +1,3 @@
+GD regime from 2025-08-06 to 2025-09-03.
+Start price: 310.89, End price: 318.61.
+Window return: 2.48%, Volatility: 0.58%.

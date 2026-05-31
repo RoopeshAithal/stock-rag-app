@@ -1,0 +1,3 @@
+MSFT regime from 2025-06-10 to 2025-07-09.
+Start price: 467.19, End price: 499.52.
+Window return: 6.92%, Volatility: 0.82%.

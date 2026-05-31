@@ -1,0 +1,41 @@
+{
+  "ticker": "META",
+  "score": 0.09748291913088933,
+  "direction": "neutral",
+  "confidence": 0.22726886648937716,
+  "primary_horizon": 5,
+  "expected_return": 0.005162605818744526,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.008459541252004354,
+      "expected_min": 0.008459541252004354,
+      "expected_max": 0.008459541252004354,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.005162605818744526,
+      "expected_min": -0.015332254685744007,
+      "expected_max": 0.03601017551392719,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.0018191369443691485,
+      "expected_min": -0.05769608426231696,
+      "expected_max": 0.08360539636832995,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.051580241583373515,
+    "momentum": 0.16675377224178636,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 632.510009765625,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

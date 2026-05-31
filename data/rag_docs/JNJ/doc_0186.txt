@@ -1,0 +1,3 @@
+JNJ regime from 2026-01-29 to 2026-02-26.
+Start price: 224.80, End price: 242.08.
+Window return: 7.69%, Volatility: 0.89%.

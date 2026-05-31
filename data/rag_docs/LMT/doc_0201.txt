@@ -1,0 +1,3 @@
+LMT regime from 2026-02-20 to 2026-03-19.
+Start price: 654.81, End price: 637.51.
+Window return: -2.64%, Volatility: 1.55%.

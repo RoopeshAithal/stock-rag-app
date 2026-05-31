@@ -1,0 +1,3 @@
+MDT regime from 2025-07-07 to 2025-08-01.
+Start price: 85.68, End price: 87.31.
+Window return: 1.90%, Volatility: 0.84%.

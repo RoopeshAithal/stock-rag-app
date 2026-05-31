@@ -1,0 +1,41 @@
+{
+  "ticker": "PYPL",
+  "score": -0.38101214762208224,
+  "direction": "down",
+  "confidence": 0.16050118173237563,
+  "primary_horizon": 5,
+  "expected_return": -0.05636816932267761,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.023660280383460984,
+      "expected_min": -0.023660280383460984,
+      "expected_max": -0.023660280383460984,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.05636816932267761,
+      "expected_min": -0.07723736622518163,
+      "expected_max": -0.007291330533155194,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.018142921873629182,
+      "expected_min": -0.10311116744564894,
+      "expected_max": 0.05013811874816156,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.5107039864900064,
+    "momentum": -0.4910894034791525,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 44.75,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

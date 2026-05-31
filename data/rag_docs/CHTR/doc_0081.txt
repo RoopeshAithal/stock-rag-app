@@ -1,0 +1,3 @@
+CHTR regime from 2025-08-28 to 2025-09-25.
+Start price: 263.63, End price: 270.57.
+Window return: 2.63%, Volatility: 1.22%.

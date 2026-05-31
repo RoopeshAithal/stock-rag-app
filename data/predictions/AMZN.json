@@ -1,0 +1,41 @@
+{
+  "ticker": "AMZN",
+  "score": 0.0024873807628794167,
+  "direction": "neutral",
+  "confidence": 0.35143443426229837,
+  "primary_horizon": 5,
+  "expected_return": -0.010163052725371735,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.004884993005267746,
+      "expected_min": -0.004884993005267746,
+      "expected_max": -0.004884993005267746,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.010163052725371735,
+      "expected_min": -0.02946253601296357,
+      "expected_max": 0.01244128398303418,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.006389668913462388,
+      "expected_min": -0.06188191965165788,
+      "expected_max": 0.05159751192538402,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.10128206096062366,
+    "momentum": 0.1048724819217486,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 270.6400146484375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

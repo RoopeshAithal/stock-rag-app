@@ -1,0 +1,3 @@
+ADBE regime from 2026-01-13 to 2026-02-10.
+Start price: 309.93, End price: 264.67.
+Window return: -14.60%, Volatility: 2.28%.

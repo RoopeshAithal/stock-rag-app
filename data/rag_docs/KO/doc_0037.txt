@@ -1,0 +1,3 @@
+KO regime from 2025-06-26 to 2025-07-24.
+Start price: 67.99, End price: 67.63.
+Window return: -0.53%, Volatility: 0.86%.

@@ -1,0 +1,3 @@
+KO regime from 2026-03-31 to 2026-04-28.
+Start price: 76.05, End price: 78.35.
+Window return: 3.02%, Volatility: 1.38%.

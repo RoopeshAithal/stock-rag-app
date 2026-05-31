@@ -1,0 +1,3 @@
+SBUX regime from 2025-11-04 to 2025-12-02.
+Start price: 78.07, End price: 84.16.
+Window return: 7.81%, Volatility: 2.02%.

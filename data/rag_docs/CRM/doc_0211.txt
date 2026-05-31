@@ -1,0 +1,3 @@
+CRM regime from 2026-03-06 to 2026-04-02.
+Start price: 201.61, End price: 186.71.
+Window return: -7.39%, Volatility: 2.28%.

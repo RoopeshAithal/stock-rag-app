@@ -1,0 +1,41 @@
+{
+  "ticker": "PG",
+  "score": 0.03027048816097406,
+  "direction": "neutral",
+  "confidence": 0.5571282780138976,
+  "primary_horizon": 5,
+  "expected_return": 0.008909578561043251,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0003982895491247529,
+      "expected_min": 0.0003982895491247529,
+      "expected_max": 0.0003982895491247529,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.008909578561043251,
+      "expected_min": -0.01077673383958313,
+      "expected_max": 0.022989448686602364,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.0033245338240815324,
+      "expected_min": -0.03261075078581368,
+      "expected_max": 0.035979364175647385,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.0888607825680993,
+    "momentum": -0.11942189929914086,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 143.55999755859375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

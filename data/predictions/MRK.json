@@ -1,0 +1,41 @@
+{
+  "ticker": "MRK",
+  "score": 0.1824958083518562,
+  "direction": "up",
+  "confidence": 0.42632669925296773,
+  "primary_horizon": 5,
+  "expected_return": 0.007515991915988951,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.005460733216869074,
+      "expected_min": 0.005460733216869074,
+      "expected_max": 0.005460733216869074,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.007515991915988951,
+      "expected_min": -0.013079024217910518,
+      "expected_max": 0.031125181326183127,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.009857759209846818,
+      "expected_min": -0.029127053292530337,
+      "expected_max": 0.05005067005038418,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.07501871175961186,
+    "momentum": 0.41106595268461205,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 118.72000122070312,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

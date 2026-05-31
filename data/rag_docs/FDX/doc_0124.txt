@@ -1,0 +1,3 @@
+FDX regime from 2025-10-29 to 2025-11-25.
+Start price: 247.36, End price: 271.37.
+Window return: 9.71%, Volatility: 1.77%.

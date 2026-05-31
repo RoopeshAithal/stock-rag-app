@@ -1,0 +1,41 @@
+{
+  "ticker": "BA",
+  "score": 0.09359392727438666,
+  "direction": "neutral",
+  "confidence": 0.41770657721776366,
+  "primary_horizon": 5,
+  "expected_return": 0.011663108275266454,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.012769831728228398,
+      "expected_min": 0.012769831728228398,
+      "expected_max": 0.012769831728228398,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.011663108275266454,
+      "expected_min": -0.01392281200101636,
+      "expected_max": 0.03607930571709793,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.037803945895417114,
+      "expected_min": -0.06356858974099729,
+      "expected_max": 0.05060258198208738,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.11610510766420379,
+    "momentum": 0.04624902258539365,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 231.1499938964844,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

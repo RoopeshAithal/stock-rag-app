@@ -1,0 +1,41 @@
+{
+  "ticker": "KO",
+  "score": 0.0207079879788322,
+  "direction": "neutral",
+  "confidence": 0.6356216199389222,
+  "primary_horizon": 5,
+  "expected_return": -0.0011439656951368726,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0038147156648440815,
+      "expected_min": 0.0038147156648440815,
+      "expected_max": 0.0038147156648440815,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0011439656951368726,
+      "expected_min": -0.013145749814730146,
+      "expected_max": 0.014231877394433923,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.007456641774314765,
+      "expected_min": -0.028412251424715283,
+      "expected_max": 0.032879366037815716,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.01143915795772251,
+    "momentum": 0.01586966763675596,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 79.01000213623047,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

@@ -1,0 +1,3 @@
+LIN regime from 2025-12-03 to 2025-12-31.
+Start price: 407.78, End price: 424.96.
+Window return: 4.21%, Volatility: 1.27%.

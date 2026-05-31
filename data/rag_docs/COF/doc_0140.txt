@@ -1,0 +1,3 @@
+COF regime from 2025-11-20 to 2025-12-18.
+Start price: 200.59, End price: 240.84.
+Window return: 20.07%, Volatility: 1.03%.

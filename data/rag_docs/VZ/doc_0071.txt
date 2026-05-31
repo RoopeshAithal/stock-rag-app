@@ -1,0 +1,3 @@
+VZ regime from 2025-08-14 to 2025-09-11.
+Start price: 41.41, End price: 42.02.
+Window return: 1.47%, Volatility: 1.00%.

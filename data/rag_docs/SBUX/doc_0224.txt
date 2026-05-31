@@ -1,0 +1,3 @@
+SBUX regime from 2026-03-25 to 2026-04-22.
+Start price: 92.16, End price: 98.94.
+Window return: 7.36%, Volatility: 1.97%.

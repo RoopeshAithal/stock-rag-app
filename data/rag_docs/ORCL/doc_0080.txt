@@ -1,0 +1,3 @@
+ORCL regime from 2025-08-27 to 2025-09-24.
+Start price: 233.96, End price: 306.04.
+Window return: 30.81%, Volatility: 8.77%.

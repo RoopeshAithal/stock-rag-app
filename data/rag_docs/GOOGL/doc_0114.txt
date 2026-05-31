@@ -1,0 +1,3 @@
+GOOGL regime from 2025-10-15 to 2025-11-11.
+Start price: 250.69, End price: 290.91.
+Window return: 16.05%, Volatility: 1.82%.

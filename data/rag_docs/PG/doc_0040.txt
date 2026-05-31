@@ -1,0 +1,3 @@
+PG regime from 2025-07-01 to 2025-07-29.
+Start price: 156.71, End price: 153.27.
+Window return: -2.20%, Volatility: 0.92%.

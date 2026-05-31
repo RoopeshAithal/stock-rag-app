@@ -1,0 +1,41 @@
+{
+  "ticker": "AIG",
+  "score": 0.08737607480890588,
+  "direction": "neutral",
+  "confidence": 0.5141377173987922,
+  "primary_horizon": 5,
+  "expected_return": 0.015551029237749769,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.006039396778877204,
+      "expected_min": 0.006039396778877204,
+      "expected_max": 0.006039396778877204,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.015551029237749769,
+      "expected_min": -0.005633015359855109,
+      "expected_max": 0.032134003038207584,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.003707393861915509,
+      "expected_min": -0.027942304177165755,
+      "expected_max": 0.04378422677033239,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.15426870945276386,
+    "momentum": -0.038083155280475726,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 74.2300033569336,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

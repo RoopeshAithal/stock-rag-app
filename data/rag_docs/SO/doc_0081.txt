@@ -1,0 +1,3 @@
+SO regime from 2025-08-28 to 2025-09-25.
+Start price: 90.03, End price: 91.44.
+Window return: 1.57%, Volatility: 0.61%.

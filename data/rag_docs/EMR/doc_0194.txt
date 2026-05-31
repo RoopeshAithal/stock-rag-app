@@ -1,0 +1,3 @@
+EMR regime from 2026-02-10 to 2026-03-10.
+Start price: 160.42, End price: 139.54.
+Window return: -13.02%, Volatility: 2.54%.

@@ -1,0 +1,41 @@
+{
+  "ticker": "GILD",
+  "score": 0.19199717500986563,
+  "direction": "up",
+  "confidence": 0.5391996541169165,
+  "primary_horizon": 5,
+  "expected_return": 0.026488547889020674,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.00581858077958306,
+      "expected_min": 0.00581858077958306,
+      "expected_max": 0.00581858077958306,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.026488547889020674,
+      "expected_min": -0.0015754399329848234,
+      "expected_max": 0.03699377808528563,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.006002659845013936,
+      "expected_min": -0.034163551491256494,
+      "expected_max": 0.05099186260480364,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.2588593798438129,
+    "momentum": 0.13633606140430837,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 134.42999267578125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

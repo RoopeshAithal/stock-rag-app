@@ -1,0 +1,41 @@
+{
+  "ticker": "NEE",
+  "score": -0.11163195511708696,
+  "direction": "neutral",
+  "confidence": 0.6419732549547974,
+  "primary_horizon": 5,
+  "expected_return": 0.0036094831268645654,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.003984519455711188,
+      "expected_min": 0.003984519455711188,
+      "expected_max": 0.003984519455711188,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0036094831268645654,
+      "expected_min": -0.008142010405877786,
+      "expected_max": 0.014483778369843093,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.002427556257955632,
+      "expected_min": -0.0278322237853198,
+      "expected_max": 0.03244817095129502,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.036079164207889265,
+    "momentum": -0.5044606796256609,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 87.01000213623047,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

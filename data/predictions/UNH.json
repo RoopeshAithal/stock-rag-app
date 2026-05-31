@@ -1,0 +1,41 @@
+{
+  "ticker": "UNH",
+  "score": 0.24096964309981161,
+  "direction": "up",
+  "confidence": 0.27252909376760387,
+  "primary_horizon": 5,
+  "expected_return": 0.03762775183698963,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.01263104764826668,
+      "expected_min": 0.01263104764826668,
+      "expected_max": 0.01263104764826668,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.03762775183698963,
+      "expected_min": -0.0033584199249667933,
+      "expected_max": 0.049782403290551544,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.1027997235786916,
+      "expected_min": -0.024136279320452758,
+      "expected_max": 0.15035689699467217,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.35947034765700514,
+    "momentum": 0.13189267534880791,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 380.30999755859375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

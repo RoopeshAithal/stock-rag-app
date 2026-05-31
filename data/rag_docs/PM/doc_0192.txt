@@ -1,0 +1,3 @@
+PM regime from 2026-02-06 to 2026-03-06.
+Start price: 181.19, End price: 168.48.
+Window return: -7.02%, Volatility: 1.75%.

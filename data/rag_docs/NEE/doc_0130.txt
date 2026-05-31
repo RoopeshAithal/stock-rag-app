@@ -1,0 +1,3 @@
+NEE regime from 2025-11-06 to 2025-12-04.
+Start price: 80.90, End price: 82.83.
+Window return: 2.38%, Volatility: 1.24%.

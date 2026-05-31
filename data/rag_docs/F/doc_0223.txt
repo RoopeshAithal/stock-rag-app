@@ -1,0 +1,3 @@
+F regime from 2026-03-24 to 2026-04-21.
+Start price: 11.69, End price: 12.62.
+Window return: 7.94%, Volatility: 2.15%.

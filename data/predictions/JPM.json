@@ -1,0 +1,41 @@
+{
+  "ticker": "JPM",
+  "score": -0.05190545218713881,
+  "direction": "neutral",
+  "confidence": 0.5891853978293705,
+  "primary_horizon": 5,
+  "expected_return": -0.0015976588493323064,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.005288165075676398,
+      "expected_min": -0.005288165075676398,
+      "expected_max": -0.005288165075676398,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0015976588493323064,
+      "expected_min": -0.01661679578997576,
+      "expected_max": 0.012925054345603459,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.02494085085966772,
+      "expected_min": -0.04518479495189702,
+      "expected_max": 0.02896140089629189,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.015975229283346055,
+    "momentum": -0.2186150140404415,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 299.3099975585937,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

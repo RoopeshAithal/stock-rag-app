@@ -1,0 +1,3 @@
+GILD regime from 2025-08-06 to 2025-09-03.
+Start price: 108.19, End price: 110.84.
+Window return: 2.46%, Volatility: 2.05%.

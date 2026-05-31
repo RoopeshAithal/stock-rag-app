@@ -1,0 +1,3 @@
+CAT regime from 2025-12-30 to 2026-01-28.
+Start price: 574.95, End price: 642.06.
+Window return: 11.67%, Volatility: 2.08%.

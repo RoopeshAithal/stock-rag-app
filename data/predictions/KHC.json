@@ -1,0 +1,41 @@
+{
+  "ticker": "KHC",
+  "score": 0.12778471098593563,
+  "direction": "neutral",
+  "confidence": 0.49946588792788266,
+  "primary_horizon": 5,
+  "expected_return": 0.003863150089241174,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.005059048202629468,
+      "expected_min": 0.005059048202629468,
+      "expected_max": 0.005059048202629468,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.003863150089241174,
+      "expected_min": -0.012229334340557063,
+      "expected_max": 0.01946845179971851,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.050684421473622975,
+      "expected_min": -0.0771498068572565,
+      "expected_max": 0.024047947414635305,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.038612294565634496,
+    "momentum": 0.28937299012150575,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 24.01000022888184,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

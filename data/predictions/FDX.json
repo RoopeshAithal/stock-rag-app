@@ -1,0 +1,41 @@
+{
+  "ticker": "FDX",
+  "score": 0.07456318252380689,
+  "direction": "neutral",
+  "confidence": 0.39509003127224224,
+  "primary_horizon": 5,
+  "expected_return": 0.0043267616386711396,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.008534536513583046,
+      "expected_min": 0.008534536513583046,
+      "expected_max": 0.008534536513583046,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0043267616386711396,
+      "expected_min": -0.016654862959613825,
+      "expected_max": 0.028312434840831412,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.02696527660448441,
+      "expected_min": -0.03804725651289624,
+      "expected_max": 0.06071069392401973,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.043240636348101165,
+    "momentum": 0.10425399227696547,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 411.75,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

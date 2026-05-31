@@ -1,0 +1,41 @@
+{
+  "ticker": "CL",
+  "score": 0.06597217774355174,
+  "direction": "neutral",
+  "confidence": 0.5259538764059097,
+  "primary_horizon": 5,
+  "expected_return": -0.007494136125395801,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.00659193566720504,
+      "expected_min": 0.00659193566720504,
+      "expected_max": 0.00659193566720504,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.007494136125395801,
+      "expected_min": -0.016580591596894335,
+      "expected_max": 0.01725172133542784,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.06671295720181786,
+      "expected_min": -0.07392290481983435,
+      "expected_max": 0.03474573386458385,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.07480138029552665,
+    "momentum": 0.2723540040821613,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 90.12999725341795,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

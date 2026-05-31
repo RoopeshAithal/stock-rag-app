@@ -1,0 +1,3 @@
+GOOG regime from 2025-12-31 to 2026-01-29.
+Start price: 313.58, End price: 338.42.
+Window return: 7.92%, Volatility: 1.15%.

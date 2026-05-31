@@ -1,0 +1,3 @@
+BAC regime from 2026-02-20 to 2026-03-19.
+Start price: 52.76, End price: 47.01.
+Window return: -10.90%, Volatility: 1.76%.

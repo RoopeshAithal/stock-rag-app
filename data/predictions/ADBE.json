@@ -1,0 +1,41 @@
+{
+  "ticker": "ADBE",
+  "score": -0.053984435532920344,
+  "direction": "neutral",
+  "confidence": 0.36597174523553355,
+  "primary_horizon": 5,
+  "expected_return": -0.031771577833544486,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.01655944072013451,
+      "expected_min": -0.01655944072013451,
+      "expected_max": -0.01655944072013451,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.031771577833544486,
+      "expected_min": -0.04617773383786097,
+      "expected_max": 0.0014784697820440563,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.03199287612622185,
+      "expected_min": -0.09165593670468218,
+      "expected_max": 0.022946338207118423,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.30744005785731715,
+    "momentum": 0.2602297557635719,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 259.2099914550781,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

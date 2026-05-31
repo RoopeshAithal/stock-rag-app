@@ -1,0 +1,3 @@
+MRK regime from 2025-06-30 to 2025-07-28.
+Start price: 77.15, End price: 81.93.
+Window return: 6.19%, Volatility: 1.68%.

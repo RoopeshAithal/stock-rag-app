@@ -1,0 +1,3 @@
+GOOGL regime from 2026-01-23 to 2026-02-20.
+Start price: 327.70, End price: 314.76.
+Window return: -3.95%, Volatility: 1.55%.

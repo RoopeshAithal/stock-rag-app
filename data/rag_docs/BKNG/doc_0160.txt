@@ -1,0 +1,3 @@
+BKNG regime from 2025-12-19 to 2026-01-20.
+Start price: 215.26, End price: 200.62.
+Window return: -6.80%, Volatility: 1.06%.

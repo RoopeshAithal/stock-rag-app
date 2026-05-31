@@ -1,0 +1,41 @@
+{
+  "ticker": "CRM",
+  "score": -0.09076334019436384,
+  "direction": "neutral",
+  "confidence": 0.4577583718267399,
+  "primary_horizon": 5,
+  "expected_return": -0.04964319976315033,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.02198913164497157,
+      "expected_min": -0.02198913164497157,
+      "expected_max": -0.02198913164497157,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.04964319976315033,
+      "expected_min": -0.06745245668647035,
+      "expected_max": -0.010551862394298894,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.041783651880796094,
+      "expected_min": -0.11415184905639983,
+      "expected_max": 0.00953038032540412,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.45930648748227076,
+    "momentum": 0.39074412293368294,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 191.1000061035156,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

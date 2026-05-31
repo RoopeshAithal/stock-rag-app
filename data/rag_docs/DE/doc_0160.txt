@@ -1,0 +1,3 @@
+DE regime from 2025-12-19 to 2026-01-20.
+Start price: 467.58, End price: 507.20.
+Window return: 8.47%, Volatility: 1.88%.

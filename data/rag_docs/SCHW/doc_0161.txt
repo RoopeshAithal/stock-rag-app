@@ -1,0 +1,3 @@
+SCHW regime from 2025-12-22 to 2026-01-21.
+Start price: 100.71, End price: 101.08.
+Window return: 0.37%, Volatility: 1.19%.

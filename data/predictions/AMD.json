@@ -1,0 +1,41 @@
+{
+  "ticker": "AMD",
+  "score": 0.2599777142347314,
+  "direction": "up",
+  "confidence": 0.15866429910060625,
+  "primary_horizon": 5,
+  "expected_return": -0.011139895738726336,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.007397281274073897,
+      "expected_min": 0.007397281274073897,
+      "expected_max": 0.007397281274073897,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.011139895738726336,
+      "expected_min": -0.05073023160336746,
+      "expected_max": 0.023561484706240997,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.12429331386480677,
+      "expected_min": -0.08345459164312378,
+      "expected_max": 0.19231508291762958,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.11094042312429994,
+    "momentum": 0.9792708637673825,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 516.0999755859375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

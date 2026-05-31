@@ -1,0 +1,3 @@
+COST regime from 2025-06-18 to 2025-07-17.
+Start price: 969.44, End price: 948.57.
+Window return: -2.15%, Volatility: 0.97%.

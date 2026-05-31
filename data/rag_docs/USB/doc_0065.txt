@@ -1,0 +1,3 @@
+USB regime from 2025-08-06 to 2025-09-03.
+Start price: 43.10, End price: 47.08.
+Window return: 9.23%, Volatility: 1.41%.

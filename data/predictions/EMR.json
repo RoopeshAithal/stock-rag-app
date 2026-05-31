@@ -1,0 +1,41 @@
+{
+  "ticker": "EMR",
+  "score": 0.02249576956541683,
+  "direction": "neutral",
+  "confidence": 0.31894193409460314,
+  "primary_horizon": 5,
+  "expected_return": -0.008259064235115654,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0014022419654846296,
+      "expected_min": 0.0014022419654846296,
+      "expected_max": 0.0014022419654846296,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.008259064235115654,
+      "expected_min": -0.031408293612197526,
+      "expected_max": 0.028821312716170687,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.02647474942672453,
+      "expected_min": -0.0679610635077439,
+      "expected_max": 0.05819680284926003,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.08240336383374319,
+    "momentum": 0.14010261605207253,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 143.82000732421875,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

@@ -1,0 +1,3 @@
+ACN regime from 2025-08-12 to 2025-09-09.
+Start price: 235.87, End price: 249.87.
+Window return: 5.94%, Volatility: 1.29%.

@@ -1,0 +1,3 @@
+ABBV regime from 2025-06-06 to 2025-07-07.
+Start price: 183.84, End price: 181.71.
+Window return: -1.16%, Volatility: 1.22%.

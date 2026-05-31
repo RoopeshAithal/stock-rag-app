@@ -1,0 +1,3 @@
+TMO regime from 2025-06-04 to 2025-07-02.
+Start price: 402.18, End price: 426.63.
+Window return: 6.08%, Volatility: 1.67%.

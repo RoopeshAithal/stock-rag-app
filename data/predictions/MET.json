@@ -1,0 +1,41 @@
+{
+  "ticker": "MET",
+  "score": 0.1448772967207961,
+  "direction": "neutral",
+  "confidence": 0.4912285841885539,
+  "primary_horizon": 5,
+  "expected_return": 0.012798349100793426,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.003401335796454108,
+      "expected_min": -0.003401335796454108,
+      "expected_max": -0.003401335796454108,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.012798349100793426,
+      "expected_min": -0.009992016961313011,
+      "expected_max": 0.025249360529690523,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.05460210172903849,
+      "expected_min": -0.021067282776004993,
+      "expected_max": 0.07059396705763199,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.12728925898066148,
+    "momentum": 0.1985533352126623,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 82.69000244140625,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

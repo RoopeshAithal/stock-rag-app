@@ -1,0 +1,3 @@
+AXP regime from 2025-08-19 to 2025-09-16.
+Start price: 303.69, End price: 324.46.
+Window return: 6.84%, Volatility: 1.36%.

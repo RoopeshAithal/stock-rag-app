@@ -1,0 +1,41 @@
+{
+  "ticker": "ISRG",
+  "score": -0.15620695265130047,
+  "direction": "down",
+  "confidence": 0.747245490787403,
+  "primary_horizon": 5,
+  "expected_return": -0.014959755938195585,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0029219300430705307,
+      "expected_min": -0.0029219300430705307,
+      "expected_max": -0.0029219300430705307,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.014959755938195585,
+      "expected_min": -0.022504250550185522,
+      "expected_max": 0.006994168350115371,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.023080143911455207,
+      "expected_min": -0.04404273275087741,
+      "expected_max": 0.026090660423497492,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.14849149024830255,
+    "momentum": -0.3454262473127195,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 424.6400146484375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

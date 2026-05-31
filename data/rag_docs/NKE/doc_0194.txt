@@ -1,0 +1,3 @@
+NKE regime from 2026-02-10 to 2026-03-10.
+Start price: 62.62, End price: 56.08.
+Window return: -10.45%, Volatility: 1.76%.

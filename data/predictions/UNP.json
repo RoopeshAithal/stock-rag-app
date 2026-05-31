@@ -1,0 +1,41 @@
+{
+  "ticker": "UNP",
+  "score": 0.024383319226343344,
+  "direction": "neutral",
+  "confidence": 0.6078414416340854,
+  "primary_horizon": 5,
+  "expected_return": 0.0066277327397173515,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0036365549318679857,
+      "expected_min": 0.0036365549318679857,
+      "expected_max": 0.0036365549318679857,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0066277327397173515,
+      "expected_min": -0.008374549173319302,
+      "expected_max": 0.017551816807718456,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0005424802630614844,
+      "expected_min": -0.03769185898777463,
+      "expected_max": 0.052290035373416255,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.06618045248861903,
+    "momentum": -0.1012452456154428,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 262.6400146484375,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

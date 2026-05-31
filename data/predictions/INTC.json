@@ -1,0 +1,41 @@
+{
+  "ticker": "INTC",
+  "score": 0.6553410258513632,
+  "direction": "up",
+  "confidence": 0.11230347656910866,
+  "primary_horizon": 5,
+  "expected_return": 0.10818824962863413,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.01938679146899176,
+      "expected_min": 0.01938679146899176,
+      "expected_max": 0.01938679146899176,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.10818824962863413,
+      "expected_min": -0.000791077258975248,
+      "expected_max": 0.12961873824825385,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.22989355933045635,
+      "expected_min": -0.04816964984244865,
+      "expected_max": 0.327937254208362,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.7938961512951933,
+    "momentum": 0.789087611790333,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 114.68000030517578,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

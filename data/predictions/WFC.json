@@ -1,0 +1,41 @@
+{
+  "ticker": "WFC",
+  "score": -0.006047692899997972,
+  "direction": "neutral",
+  "confidence": 0.48280878045925385,
+  "primary_horizon": 5,
+  "expected_return": 0.009644730498766263,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0010480435448785741,
+      "expected_min": -0.0010480435448785741,
+      "expected_max": -0.0010480435448785741,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.009644730498766263,
+      "expected_min": -0.011059149184274442,
+      "expected_max": 0.027224632759324664,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.03500222150917666,
+      "expected_min": -0.06821934972027059,
+      "expected_max": 0.044410319508166395,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.09614935994190466,
+    "momentum": -0.25263013179205657,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 77.54000091552734,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

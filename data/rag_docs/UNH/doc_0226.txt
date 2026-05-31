@@ -1,0 +1,3 @@
+UNH regime from 2026-03-27 to 2026-04-24.
+Start price: 259.02, End price: 354.92.
+Window return: 37.02%, Volatility: 2.52%.

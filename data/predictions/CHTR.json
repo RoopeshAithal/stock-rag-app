@@ -1,0 +1,41 @@
+{
+  "ticker": "CHTR",
+  "score": -0.223394025869721,
+  "direction": "down",
+  "confidence": 0.16466861439149594,
+  "primary_horizon": 5,
+  "expected_return": -0.015262508268952545,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.00783599380781963,
+      "expected_min": 0.00783599380781963,
+      "expected_max": 0.00783599380781963,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.015262508268952545,
+      "expected_min": -0.03909447914585318,
+      "expected_max": 0.04270099195449798,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.1244382607653686,
+      "expected_min": -0.15859889811443426,
+      "expected_max": 0.07909263551690676,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.15145091801997967,
+    "momentum": -0.5644507784213262,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 144.0500030517578,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

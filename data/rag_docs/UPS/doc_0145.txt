@@ -1,0 +1,3 @@
+UPS regime from 2025-11-28 to 2025-12-26.
+Start price: 92.91, End price: 97.51.
+Window return: 4.96%, Volatility: 1.35%.

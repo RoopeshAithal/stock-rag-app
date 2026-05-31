@@ -1,0 +1,3 @@
+PEP regime from 2025-09-19 to 2025-10-16.
+Start price: 139.14, End price: 149.85.
+Window return: 7.70%, Volatility: 1.56%.

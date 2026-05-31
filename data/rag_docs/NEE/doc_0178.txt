@@ -1,0 +1,3 @@
+NEE regime from 2026-01-16 to 2026-02-13.
+Start price: 83.06, End price: 93.16.
+Window return: 12.16%, Volatility: 1.07%.

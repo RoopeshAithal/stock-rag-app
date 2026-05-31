@@ -1,0 +1,3 @@
+MET regime from 2026-03-23 to 2026-04-20.
+Start price: 68.65, End price: 77.11.
+Window return: 12.32%, Volatility: 1.62%.

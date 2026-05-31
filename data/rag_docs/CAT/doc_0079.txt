@@ -1,0 +1,3 @@
+CAT regime from 2025-08-26 to 2025-09-23.
+Start price: 428.21, End price: 467.92.
+Window return: 9.28%, Volatility: 1.46%.

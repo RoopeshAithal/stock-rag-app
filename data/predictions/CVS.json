@@ -1,0 +1,41 @@
+{
+  "ticker": "CVS",
+  "score": 0.24445760152880197,
+  "direction": "up",
+  "confidence": 0.39488417449618396,
+  "primary_horizon": 5,
+  "expected_return": 0.018894669400352847,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.017141811786907723,
+      "expected_min": 0.017141811786907723,
+      "expected_max": 0.017141811786907723,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.018894669400352847,
+      "expected_min": -0.004070857838896336,
+      "expected_max": 0.03963996384293511,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.044662610325094686,
+      "expected_min": -0.042827233404662116,
+      "expected_max": 0.10293350970365793,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.18672982685604703,
+    "momentum": 0.4314200714470393,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 90.9800033569336,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

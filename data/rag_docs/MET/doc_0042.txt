@@ -1,0 +1,3 @@
+MET regime from 2025-07-03 to 2025-07-31.
+Start price: 78.30, End price: 73.74.
+Window return: -5.83%, Volatility: 1.38%.

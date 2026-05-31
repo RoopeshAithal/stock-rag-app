@@ -1,0 +1,3 @@
+CVS regime from 2025-12-26 to 2026-01-26.
+Start price: 78.27, End price: 83.14.
+Window return: 6.22%, Volatility: 1.39%.

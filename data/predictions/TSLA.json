@@ -1,0 +1,41 @@
+{
+  "ticker": "TSLA",
+  "score": 0.2154505888459672,
+  "direction": "up",
+  "confidence": 0.3981078989196434,
+  "primary_horizon": 5,
+  "expected_return": 0.0021320078909802696,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.01314987371116445,
+      "expected_min": -0.01314987371116445,
+      "expected_max": -0.01314987371116445,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0021320078909802696,
+      "expected_min": -0.03389216691540977,
+      "expected_max": 0.021706570453880126,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0268867642245757,
+      "expected_min": -0.04952475412931327,
+      "expected_max": 0.08229356971364224,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.02131684917983481,
+    "momentum": 0.6104183252979438,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 435.7900085449219,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

@@ -1,0 +1,3 @@
+GE regime from 2026-02-17 to 2026-03-16.
+Start price: 326.60, End price: 304.00.
+Window return: -6.92%, Volatility: 2.13%.

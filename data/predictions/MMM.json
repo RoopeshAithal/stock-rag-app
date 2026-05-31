@@ -1,0 +1,41 @@
+{
+  "ticker": "MMM",
+  "score": 0.15697293175836216,
+  "direction": "up",
+  "confidence": 0.2727298018462539,
+  "primary_horizon": 5,
+  "expected_return": 0.01228143519191548,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.005418819717530654,
+      "expected_min": 0.005418819717530654,
+      "expected_max": 0.005418819717530654,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.01228143519191548,
+      "expected_min": -0.015590302614286854,
+      "expected_max": 0.03499785561956442,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.032676635092084384,
+      "expected_min": -0.05734173499261298,
+      "expected_max": 0.04954260521174364,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.12220057024330679,
+    "momentum": 0.24735326656680703,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 153.1300048828125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

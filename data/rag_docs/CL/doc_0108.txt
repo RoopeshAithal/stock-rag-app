@@ -1,0 +1,3 @@
+CL regime from 2025-10-07 to 2025-11-03.
+Start price: 77.62, End price: 74.06.
+Window return: -4.59%, Volatility: 1.27%.

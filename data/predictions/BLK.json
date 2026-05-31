@@ -1,0 +1,41 @@
+{
+  "ticker": "BLK",
+  "score": -0.03571200654998888,
+  "direction": "neutral",
+  "confidence": 0.2848432453936592,
+  "primary_horizon": 5,
+  "expected_return": -0.006227021093933682,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.003213424144109822,
+      "expected_min": 0.003213424144109822,
+      "expected_max": 0.003213424144109822,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.006227021093933682,
+      "expected_min": -0.02497999896093902,
+      "expected_max": 0.02198979241081326,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.018543657968116467,
+      "expected_min": -0.06721987742855609,
+      "expected_max": 0.04495334049155512,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.06218984968892114,
+    "momentum": -0.08761249457398326,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 1046.8800048828125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

@@ -1,0 +1,3 @@
+MCD regime from 2025-10-14 to 2025-11-10.
+Start price: 301.06, End price: 295.66.
+Window return: -1.79%, Volatility: 1.06%.

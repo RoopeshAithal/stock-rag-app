@@ -1,0 +1,41 @@
+{
+  "ticker": "ACN",
+  "score": -0.12909384505921853,
+  "direction": "neutral",
+  "confidence": 0.389684489732436,
+  "primary_horizon": 5,
+  "expected_return": -0.04714320639289726,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.006909422176491153,
+      "expected_min": -0.006909422176491153,
+      "expected_max": -0.006909422176491153,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.04714320639289726,
+      "expected_min": -0.06516152758375113,
+      "expected_max": -0.0006725853073085486,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.09149707107426083,
+      "expected_min": -0.1413768689381746,
+      "expected_max": 0.0029950833208922667,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.43935566935740833,
+    "momentum": 0.22972440984272988,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 187.07000732421875,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

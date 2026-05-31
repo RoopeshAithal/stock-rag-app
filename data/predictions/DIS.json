@@ -1,0 +1,41 @@
+{
+  "ticker": "DIS",
+  "score": 0.048517741188455546,
+  "direction": "neutral",
+  "confidence": 0.5453131626905467,
+  "primary_horizon": 5,
+  "expected_return": 0.010949779331869913,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0026712105563152177,
+      "expected_min": 0.0026712105563152177,
+      "expected_max": 0.0026712105563152177,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.010949779331869913,
+      "expected_min": -0.012837193620232168,
+      "expected_max": 0.028732943114410603,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.011492717829956122,
+      "expected_min": -0.042513487086224454,
+      "expected_max": 0.048737449490851424,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.10906226428922323,
+    "momentum": -0.09226685874274246,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 101.83000183105467,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

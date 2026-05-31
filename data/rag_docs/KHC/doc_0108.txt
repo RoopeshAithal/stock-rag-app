@@ -1,0 +1,3 @@
+KHC regime from 2025-10-07 to 2025-11-03.
+Start price: 24.61, End price: 23.55.
+Window return: -4.29%, Volatility: 1.33%.

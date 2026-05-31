@@ -1,0 +1,3 @@
+NKE regime from 2025-09-05 to 2025-10-02.
+Start price: 72.96, End price: 73.61.
+Window return: 0.89%, Volatility: 1.75%.

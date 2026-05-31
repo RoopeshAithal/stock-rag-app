@@ -1,0 +1,3 @@
+TMUS regime from 2026-04-01 to 2026-04-29.
+Start price: 203.15, End price: 197.10.
+Window return: -2.98%, Volatility: 2.37%.

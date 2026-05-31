@@ -1,0 +1,3 @@
+CHTR regime from 2026-02-23 to 2026-03-20.
+Start price: 227.52, End price: 213.01.
+Window return: -6.38%, Volatility: 2.41%.

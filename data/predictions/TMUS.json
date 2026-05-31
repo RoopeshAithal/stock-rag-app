@@ -1,0 +1,41 @@
+{
+  "ticker": "TMUS",
+  "score": 0.017297833375951067,
+  "direction": "neutral",
+  "confidence": 0.40440541018542975,
+  "primary_horizon": 5,
+  "expected_return": 0.00971443461621857,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0029091748422967133,
+      "expected_min": -0.0029091748422967133,
+      "expected_max": -0.0029091748422967133,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.00971443461621857,
+      "expected_min": -0.015349026077728745,
+      "expected_max": 0.02752069565594465,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.03958254003863926,
+      "expected_min": -0.0423068356559501,
+      "expected_max": 0.06436835532357933,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.0968399107876883,
+    "momentum": -0.1759626289485325,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 187.52999877929688,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

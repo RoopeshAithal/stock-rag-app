@@ -1,0 +1,3 @@
+T regime from 2026-01-14 to 2026-02-11.
+Start price: 23.37, End price: 28.18.
+Window return: 20.58%, Volatility: 1.90%.

@@ -1,0 +1,3 @@
+BMY regime from 2026-01-23 to 2026-02-20.
+Start price: 54.09, End price: 60.04.
+Window return: 11.00%, Volatility: 1.66%.

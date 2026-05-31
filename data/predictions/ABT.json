@@ -1,0 +1,41 @@
+{
+  "ticker": "ABT",
+  "score": -0.1955310694261877,
+  "direction": "down",
+  "confidence": 0.5698332694269918,
+  "primary_horizon": 5,
+  "expected_return": -0.02740864097309268,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0030495602494015174,
+      "expected_min": -0.0030495602494015174,
+      "expected_max": -0.0030495602494015174,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.02740864097309268,
+      "expected_min": -0.029486669926684427,
+      "expected_max": 0.006619192472921409,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.07487674053679098,
+      "expected_min": -0.09601780382592635,
+      "expected_max": 0.009812969411820083,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.2674231347088744,
+    "momentum": -0.2782872291280572,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 85.5999984741211,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

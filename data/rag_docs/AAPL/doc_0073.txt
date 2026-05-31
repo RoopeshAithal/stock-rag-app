@@ -1,0 +1,3 @@
+AAPL regime from 2025-08-18 to 2025-09-15.
+Start price: 230.24, End price: 236.03.
+Window return: 2.52%, Volatility: 1.50%.

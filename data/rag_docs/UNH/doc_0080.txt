@@ -1,0 +1,3 @@
+UNH regime from 2025-08-27 to 2025-09-24.
+Start price: 297.64, End price: 346.76.
+Window return: 16.50%, Volatility: 2.24%.

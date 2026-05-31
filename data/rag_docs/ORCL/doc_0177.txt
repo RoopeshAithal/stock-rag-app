@@ -1,0 +1,3 @@
+ORCL regime from 2026-01-15 to 2026-02-12.
+Start price: 189.19, End price: 155.94.
+Window return: -17.58%, Volatility: 3.91%.

@@ -1,0 +1,3 @@
+AMZN regime from 2025-12-12 to 2026-01-12.
+Start price: 226.19, End price: 246.47.
+Window return: 8.97%, Volatility: 1.38%.

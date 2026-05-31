@@ -1,0 +1,3 @@
+MMM regime from 2025-06-17 to 2025-07-16.
+Start price: 139.60, End price: 154.67.
+Window return: 10.79%, Volatility: 1.05%.

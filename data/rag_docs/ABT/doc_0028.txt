@@ -1,0 +1,3 @@
+ABT regime from 2025-06-12 to 2025-07-11.
+Start price: 133.72, End price: 129.38.
+Window return: -3.25%, Volatility: 1.26%.

@@ -1,0 +1,3 @@
+CL regime from 2026-03-30 to 2026-04-27.
+Start price: 85.20, End price: 84.17.
+Window return: -1.21%, Volatility: 1.40%.

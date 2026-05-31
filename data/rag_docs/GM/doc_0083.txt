@@ -1,0 +1,3 @@
+GM regime from 2025-09-02 to 2025-09-29.
+Start price: 58.13, End price: 60.85.
+Window return: 4.70%, Volatility: 1.00%.

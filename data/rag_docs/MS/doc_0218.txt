@@ -1,0 +1,3 @@
+MS regime from 2026-03-17 to 2026-04-14.
+Start price: 156.99, End price: 182.36.
+Window return: 16.16%, Volatility: 1.65%.

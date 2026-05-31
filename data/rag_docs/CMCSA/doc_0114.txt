@@ -1,0 +1,3 @@
+CMCSA regime from 2025-10-15 to 2025-11-11.
+Start price: 27.21, End price: 25.14.
+Window return: -7.64%, Volatility: 1.74%.

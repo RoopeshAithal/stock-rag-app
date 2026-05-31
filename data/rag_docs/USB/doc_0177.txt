@@ -1,0 +1,3 @@
+USB regime from 2026-01-15 to 2026-02-12.
+Start price: 53.40, End price: 57.24.
+Window return: 7.19%, Volatility: 1.46%.

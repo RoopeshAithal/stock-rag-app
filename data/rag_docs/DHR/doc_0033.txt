@@ -1,0 +1,3 @@
+DHR regime from 2025-06-20 to 2025-07-18.
+Start price: 195.05, End price: 189.05.
+Window return: -3.07%, Volatility: 1.49%.

@@ -1,0 +1,3 @@
+BRK-B regime from 2025-12-24 to 2026-01-23.
+Start price: 501.34, End price: 478.97.
+Window return: -4.46%, Volatility: 0.60%.

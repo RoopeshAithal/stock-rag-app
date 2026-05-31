@@ -1,0 +1,3 @@
+DUK regime from 2026-03-09 to 2026-04-06.
+Start price: 129.96, End price: 130.28.
+Window return: 0.25%, Volatility: 0.97%.

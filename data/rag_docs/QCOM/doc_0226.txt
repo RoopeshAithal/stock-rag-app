@@ -1,0 +1,3 @@
+QCOM regime from 2026-03-27 to 2026-04-24.
+Start price: 127.11, End price: 148.85.
+Window return: 17.10%, Volatility: 2.70%.

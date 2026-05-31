@@ -1,0 +1,3 @@
+AMGN regime from 2026-03-26 to 2026-04-23.
+Start price: 350.51, End price: 346.01.
+Window return: -1.29%, Volatility: 1.24%.

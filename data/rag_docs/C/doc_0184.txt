@@ -1,0 +1,3 @@
+C regime from 2026-01-27 to 2026-02-24.
+Start price: 113.66, End price: 109.04.
+Window return: -4.06%, Volatility: 2.53%.

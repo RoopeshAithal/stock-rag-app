@@ -1,0 +1,3 @@
+INTC regime from 2025-08-28 to 2025-09-25.
+Start price: 24.93, End price: 33.99.
+Window return: 36.34%, Volatility: 5.78%.

@@ -1,0 +1,41 @@
+{
+  "ticker": "TXN",
+  "score": 0.37798186477556023,
+  "direction": "up",
+  "confidence": 0.3197704481145833,
+  "primary_horizon": 5,
+  "expected_return": 0.04872482989124518,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.027525978970544207,
+      "expected_min": 0.027525978970544207,
+      "expected_max": 0.027525978970544207,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.04872482989124518,
+      "expected_min": 0.014022106557363967,
+      "expected_max": 0.06042555779239546,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.13373350646986015,
+      "expected_min": -0.0008311712315874686,
+      "expected_max": 0.17786481012780356,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.45202971452211865,
+    "momentum": 0.43433446949278093,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 305.67999267578125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "ticker": "INTU",
+  "score": -0.28669368051150995,
+  "direction": "down",
+  "confidence": 0.18153440542213986,
+  "primary_horizon": 5,
+  "expected_return": -0.024658675587949486,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.003168957444206566,
+      "expected_min": -0.003168957444206566,
+      "expected_max": -0.003168957444206566,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.024658675587949486,
+      "expected_min": -0.050920931509871994,
+      "expected_max": 0.028041030177493976,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.07019493400364674,
+      "expected_min": -0.14644745397588138,
+      "expected_max": 0.046447923285967516,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.24170749028361124,
+    "momentum": -0.6250220067879033,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 331.5299987792969,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

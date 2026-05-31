@@ -1,0 +1,3 @@
+BA regime from 2025-11-06 to 2025-12-04.
+Start price: 196.50, End price: 201.87.
+Window return: 2.73%, Volatility: 2.69%.

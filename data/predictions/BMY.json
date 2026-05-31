@@ -1,0 +1,41 @@
+{
+  "ticker": "BMY",
+  "score": -0.07832925361640344,
+  "direction": "neutral",
+  "confidence": 0.600827817473257,
+  "primary_horizon": 5,
+  "expected_return": -0.0035486784790856652,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0026753768728994378,
+      "expected_min": 0.0026753768728994378,
+      "expected_max": 0.0026753768728994378,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0035486784790856652,
+      "expected_min": -0.017470095683747088,
+      "expected_max": 0.01768907279634806,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.014135355213246792,
+      "expected_min": -0.0483758359953367,
+      "expected_max": 0.025244448084794792,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.03547189598060899,
+    "momentum": -0.2741999076425521,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 57.18000030517578,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

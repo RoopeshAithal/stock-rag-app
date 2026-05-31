@@ -1,0 +1,3 @@
+LIN regime from 2026-01-29 to 2026-02-26.
+Start price: 453.48, End price: 496.84.
+Window return: 9.56%, Volatility: 1.36%.

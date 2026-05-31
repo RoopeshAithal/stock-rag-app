@@ -1,0 +1,3 @@
+GM regime from 2026-03-31 to 2026-04-28.
+Start price: 74.50, End price: 78.95.
+Window return: 5.97%, Volatility: 2.09%.

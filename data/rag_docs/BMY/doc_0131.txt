@@ -1,0 +1,3 @@
+BMY regime from 2025-11-07 to 2025-12-05.
+Start price: 45.67, End price: 51.01.
+Window return: 11.69%, Volatility: 2.15%.

@@ -1,0 +1,3 @@
+LOW regime from 2025-11-25 to 2025-12-23.
+Start price: 235.90, End price: 239.92.
+Window return: 1.70%, Volatility: 1.17%.

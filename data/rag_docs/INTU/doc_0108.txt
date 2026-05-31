@@ -1,0 +1,3 @@
+INTU regime from 2025-10-07 to 2025-11-03.
+Start price: 653.56, End price: 672.87.
+Window return: 2.95%, Volatility: 1.36%.

@@ -1,0 +1,3 @@
+MDT regime from 2026-01-29 to 2026-02-26.
+Start price: 100.18, End price: 96.24.
+Window return: -3.93%, Volatility: 1.30%.

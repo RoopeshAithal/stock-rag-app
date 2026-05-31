@@ -1,0 +1,3 @@
+GS regime from 2026-03-23 to 2026-04-20.
+Start price: 831.27, End price: 941.74.
+Window return: 13.29%, Volatility: 1.96%.

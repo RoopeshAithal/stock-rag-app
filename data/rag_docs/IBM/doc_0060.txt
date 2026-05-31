@@ -1,0 +1,3 @@
+IBM regime from 2025-07-30 to 2025-08-26.
+Start price: 253.77, End price: 238.18.
+Window return: -6.14%, Volatility: 1.38%.

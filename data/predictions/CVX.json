@@ -1,0 +1,41 @@
+{
+  "ticker": "CVX",
+  "score": 0.06026875372338779,
+  "direction": "neutral",
+  "confidence": 0.6052210291091629,
+  "primary_horizon": 5,
+  "expected_return": 0.022054126390530802,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.006787124222154306,
+      "expected_min": 0.006787124222154306,
+      "expected_max": 0.006787124222154306,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.022054126390530802,
+      "expected_min": -0.004034691369514398,
+      "expected_max": 0.0321102041281587,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.04738206641672961,
+      "expected_min": -0.017499279079659525,
+      "expected_max": 0.07539914578174785,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.21703389040592827,
+    "momentum": -0.23304952715414337,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 182.4600067138672,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

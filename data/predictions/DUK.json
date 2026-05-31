@@ -1,0 +1,41 @@
+{
+  "ticker": "DUK",
+  "score": 0.025478470285793073,
+  "direction": "neutral",
+  "confidence": 0.8367965871080424,
+  "primary_horizon": 5,
+  "expected_return": 0.013974411120064945,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0048022706083367785,
+      "expected_min": 0.0048022706083367785,
+      "expected_max": 0.0048022706083367785,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.013974411120064945,
+      "expected_min": -0.0009247658894697919,
+      "expected_max": 0.020501936473062466,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.011399642414580002,
+      "expected_min": -0.026706596868591524,
+      "expected_max": 0.04007168225253179,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.13884150075897672,
+    "momentum": -0.21869648920120655,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 122.7300033569336,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

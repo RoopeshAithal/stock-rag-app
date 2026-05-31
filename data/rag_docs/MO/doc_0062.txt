@@ -1,0 +1,3 @@
+MO regime from 2025-08-01 to 2025-08-28.
+Start price: 58.72, End price: 63.13.
+Window return: 7.51%, Volatility: 0.79%.

@@ -1,0 +1,3 @@
+MS regime from 2025-07-30 to 2025-08-26.
+Start price: 141.52, End price: 146.47.
+Window return: 3.49%, Volatility: 1.33%.

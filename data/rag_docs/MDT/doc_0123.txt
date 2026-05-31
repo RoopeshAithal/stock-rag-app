@@ -1,0 +1,3 @@
+MDT regime from 2025-10-28 to 2025-11-24.
+Start price: 91.80, End price: 101.62.
+Window return: 10.69%, Volatility: 1.52%.

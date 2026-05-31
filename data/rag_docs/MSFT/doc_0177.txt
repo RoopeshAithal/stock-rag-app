@@ -1,0 +1,3 @@
+MSFT regime from 2026-01-15 to 2026-02-12.
+Start price: 454.64, End price: 400.06.
+Window return: -12.00%, Volatility: 3.02%.

@@ -1,0 +1,3 @@
+GS regime from 2025-07-15 to 2025-08-11.
+Start price: 691.68, End price: 708.15.
+Window return: 2.38%, Volatility: 1.09%.

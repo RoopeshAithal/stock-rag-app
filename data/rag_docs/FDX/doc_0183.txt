@@ -1,0 +1,3 @@
+FDX regime from 2026-01-26 to 2026-02-23.
+Start price: 303.24, End price: 382.16.
+Window return: 26.03%, Volatility: 1.60%.

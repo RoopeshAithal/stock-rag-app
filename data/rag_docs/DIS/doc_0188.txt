@@ -1,0 +1,3 @@
+DIS regime from 2026-02-02 to 2026-03-02.
+Start price: 104.45, End price: 104.33.
+Window return: -0.11%, Volatility: 2.10%.

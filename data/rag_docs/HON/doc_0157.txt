@@ -1,0 +1,3 @@
+HON regime from 2025-12-16 to 2026-01-14.
+Start price: 196.20, End price: 210.83.
+Window return: 7.45%, Volatility: 1.31%.

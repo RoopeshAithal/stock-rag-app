@@ -1,0 +1,3 @@
+JPM regime from 2025-12-03 to 2025-12-31.
+Start price: 309.15, End price: 319.14.
+Window return: 3.23%, Volatility: 1.63%.

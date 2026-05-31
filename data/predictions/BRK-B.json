@@ -1,0 +1,41 @@
+{
+  "ticker": "BRK-B",
+  "score": 0.05975093951430816,
+  "direction": "neutral",
+  "confidence": 0.6327309113404158,
+  "primary_horizon": 5,
+  "expected_return": 0.007071197324919199,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.006252125041501677,
+      "expected_min": 0.006252125041501677,
+      "expected_max": 0.006252125041501677,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.007071197324919199,
+      "expected_min": -0.003096578398322292,
+      "expected_max": 0.022127539086129234,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.008796618255811762,
+      "expected_min": -0.026674630195151337,
+      "expected_max": 0.02637394517682279,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.0705943508909567,
+    "momentum": 0.00929032467387714,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 474.4800109863281,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

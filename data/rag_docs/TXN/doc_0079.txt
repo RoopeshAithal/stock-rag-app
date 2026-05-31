@@ -1,0 +1,3 @@
+TXN regime from 2025-08-26 to 2025-09-23.
+Start price: 201.81, End price: 178.35.
+Window return: -11.62%, Volatility: 1.31%.

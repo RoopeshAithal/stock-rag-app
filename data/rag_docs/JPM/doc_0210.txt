@@ -1,0 +1,3 @@
+JPM regime from 2026-03-05 to 2026-04-01.
+Start price: 292.06, End price: 293.88.
+Window return: 0.62%, Volatility: 1.33%.

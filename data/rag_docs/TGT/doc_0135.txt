@@ -1,0 +1,3 @@
+TGT regime from 2025-11-13 to 2025-12-11.
+Start price: 88.87, End price: 95.10.
+Window return: 7.01%, Volatility: 2.08%.

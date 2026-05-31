@@ -1,0 +1,3 @@
+CSCO regime from 2025-10-20 to 2025-11-14.
+Start price: 69.90, End price: 77.17.
+Window return: 10.40%, Volatility: 1.71%.

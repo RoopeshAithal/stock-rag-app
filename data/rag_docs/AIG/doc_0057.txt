@@ -1,0 +1,3 @@
+AIG regime from 2025-07-25 to 2025-08-21.
+Start price: 78.75, End price: 81.20.
+Window return: 3.11%, Volatility: 1.26%.

@@ -1,0 +1,3 @@
+CVS regime from 2025-08-12 to 2025-09-09.
+Start price: 63.89, End price: 69.97.
+Window return: 9.53%, Volatility: 1.55%.

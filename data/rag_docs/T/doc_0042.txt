@@ -1,0 +1,3 @@
+T regime from 2025-07-03 to 2025-07-31.
+Start price: 27.17, End price: 26.53.
+Window return: -2.38%, Volatility: 0.88%.

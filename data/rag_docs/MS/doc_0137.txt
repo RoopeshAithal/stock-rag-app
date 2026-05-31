@@ -1,0 +1,3 @@
+MS regime from 2025-11-17 to 2025-12-15.
+Start price: 157.73, End price: 175.87.
+Window return: 11.50%, Volatility: 1.21%.

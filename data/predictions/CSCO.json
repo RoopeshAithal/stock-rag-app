@@ -1,0 +1,41 @@
+{
+  "ticker": "CSCO",
+  "score": 0.3934494259889933,
+  "direction": "up",
+  "confidence": 0.4375706491150325,
+  "primary_horizon": 5,
+  "expected_return": 0.019480090551932526,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0012594672511998973,
+      "expected_min": -0.0012594672511998973,
+      "expected_max": -0.0012594672511998973,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.019480090551932526,
+      "expected_min": -0.01692861087938541,
+      "expected_max": 0.029272562587903374,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.10581085640215662,
+      "expected_min": -0.039383296705447005,
+      "expected_max": 0.1427502544961295,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.19237367947376388,
+    "momentum": 0.9186530652848158,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 120.41999816894533,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

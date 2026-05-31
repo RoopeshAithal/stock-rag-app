@@ -1,0 +1,41 @@
+{
+  "ticker": "ORCL",
+  "score": 0.3597723129556292,
+  "direction": "up",
+  "confidence": 0.23879843209546334,
+  "primary_horizon": 5,
+  "expected_return": 0.009832952125312534,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0018139395128849213,
+      "expected_min": -0.0018139395128849213,
+      "expected_max": -0.0018139395128849213,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.009832952125312534,
+      "expected_min": -0.030924665988327382,
+      "expected_max": 0.03468086659054372,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.04780227861897315,
+      "expected_min": -0.04822114094013781,
+      "expected_max": 0.11566864006790464,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.09801383606047744,
+    "momentum": 0.9636624275290795,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 225.77999877929688,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

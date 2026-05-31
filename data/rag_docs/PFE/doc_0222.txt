@@ -1,0 +1,3 @@
+PFE regime from 2026-03-23 to 2026-04-20.
+Start price: 26.34, End price: 27.07.
+Window return: 2.80%, Volatility: 1.39%.

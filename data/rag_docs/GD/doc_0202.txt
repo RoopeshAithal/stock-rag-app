@@ -1,0 +1,3 @@
+GD regime from 2026-02-23 to 2026-03-20.
+Start price: 347.37, End price: 344.18.
+Window return: -0.92%, Volatility: 1.26%.

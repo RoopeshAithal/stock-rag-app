@@ -1,0 +1,41 @@
+{
+  "ticker": "AVGO",
+  "score": 0.30611316962943846,
+  "direction": "up",
+  "confidence": 0.3755646126654369,
+  "primary_horizon": 5,
+  "expected_return": 0.038414745664490754,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.01023366021272476,
+      "expected_min": -0.01023366021272476,
+      "expected_max": -0.01023366021272476,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.038414745664490754,
+      "expected_min": -0.02166444569379542,
+      "expected_max": 0.050121570301734995,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.05310532081556073,
+      "expected_min": -0.0326193143818783,
+      "expected_max": 0.10049890371005026,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.3663038677498473,
+    "momentum": 0.33764856362616047,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 446.7699890136719,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

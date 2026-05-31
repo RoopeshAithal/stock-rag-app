@@ -1,0 +1,3 @@
+UNP regime from 2025-07-24 to 2025-08-20.
+Start price: 215.62, End price: 220.67.
+Window return: 2.34%, Volatility: 1.28%.

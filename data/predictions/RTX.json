@@ -1,0 +1,41 @@
+{
+  "ticker": "RTX",
+  "score": 0.14509773205711676,
+  "direction": "neutral",
+  "confidence": 0.600314026131573,
+  "primary_horizon": 5,
+  "expected_return": 0.01750810565899249,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.011687759081968318,
+      "expected_min": 0.011687759081968318,
+      "expected_max": 0.011687759081968318,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.01750810565899249,
+      "expected_min": 4.118088633915384e-05,
+      "expected_max": 0.028761534998393366,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.0021597202230991706,
+      "expected_min": -0.03197123990628098,
+      "expected_max": 0.052847329105628615,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.17331378077810106,
+    "momentum": 0.12258058333799858,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 179.66000366210938,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

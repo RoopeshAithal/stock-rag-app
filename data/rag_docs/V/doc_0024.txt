@@ -1,0 +1,3 @@
+V regime from 2025-06-06 to 2025-07-07.
+Start price: 367.32, End price: 353.85.
+Window return: -3.67%, Volatility: 1.91%.

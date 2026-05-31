@@ -1,0 +1,3 @@
+PFE regime from 2025-09-10 to 2025-10-07.
+Start price: 23.36, End price: 24.98.
+Window return: 6.92%, Volatility: 2.58%.

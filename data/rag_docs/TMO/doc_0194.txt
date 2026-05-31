@@ -1,0 +1,3 @@
+TMO regime from 2026-02-10 to 2026-03-10.
+Start price: 539.27, End price: 499.59.
+Window return: -7.36%, Volatility: 1.61%.

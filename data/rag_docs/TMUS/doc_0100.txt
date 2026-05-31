@@ -1,0 +1,3 @@
+TMUS regime from 2025-09-25 to 2025-10-22.
+Start price: 234.36, End price: 223.98.
+Window return: -4.43%, Volatility: 1.18%.

@@ -1,0 +1,3 @@
+KO regime from 2025-12-16 to 2026-01-14.
+Start price: 69.89, End price: 70.95.
+Window return: 1.52%, Volatility: 0.94%.

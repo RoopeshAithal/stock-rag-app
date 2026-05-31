@@ -1,0 +1,3 @@
+PG regime from 2026-01-14 to 2026-02-11.
+Start price: 144.23, End price: 158.80.
+Window return: 10.10%, Volatility: 1.06%.

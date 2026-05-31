@@ -1,0 +1,41 @@
+{
+  "ticker": "NKE",
+  "score": -0.08713376024472604,
+  "direction": "neutral",
+  "confidence": 0.36412800529726996,
+  "primary_horizon": 5,
+  "expected_return": -0.03566116109138323,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.004084869926627643,
+      "expected_min": -0.004084869926627643,
+      "expected_max": -0.004084869926627643,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.03566116109138323,
+      "expected_min": -0.05058640994290855,
+      "expected_max": 0.0034833207176474534,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.09507812446019623,
+      "expected_min": -0.12489129976678306,
+      "expected_max": 0.018902917996177215,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.3422259648576126,
+    "momentum": 0.20770851839137863,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 46.22999954223633,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

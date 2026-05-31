@@ -1,0 +1,41 @@
+{
+  "ticker": "COST",
+  "score": -0.039067019383721896,
+  "direction": "neutral",
+  "confidence": 0.7121533487954389,
+  "primary_horizon": 5,
+  "expected_return": 0.004232474295965549,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -4.339595100683047e-05,
+      "expected_min": -4.339595100683047e-05,
+      "expected_max": -4.339595100683047e-05,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.004232474295965549,
+      "expected_min": -0.011473204263036463,
+      "expected_max": 0.010910092371496117,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.004664197189396124,
+      "expected_min": -0.029804894610831988,
+      "expected_max": 0.018911313835131904,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.04229948776896561,
+    "momentum": -0.2729447664495712,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 956.3200073242188,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:38+00:00"
+}

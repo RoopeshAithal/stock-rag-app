@@ -1,0 +1,41 @@
+{
+  "ticker": "QCOM",
+  "score": 0.3034239681085604,
+  "direction": "up",
+  "confidence": 0.22108998864977514,
+  "primary_horizon": 5,
+  "expected_return": -0.0014435383843721783,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.004255804910559646,
+      "expected_min": -0.004255804910559646,
+      "expected_max": -0.004255804910559646,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0014435383843721783,
+      "expected_min": -0.03534899965104604,
+      "expected_max": 0.03876318920988484,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.12185243133055468,
+      "expected_min": -0.06640056063766761,
+      "expected_max": 0.20238631926239078,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.014434381244052875,
+    "momentum": 0.963248306879734,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 251.0200042724609,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

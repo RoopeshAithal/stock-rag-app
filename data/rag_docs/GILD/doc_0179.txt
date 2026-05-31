@@ -1,0 +1,3 @@
+GILD regime from 2026-01-20 to 2026-02-17.
+Start price: 123.44, End price: 154.39.
+Window return: 25.08%, Volatility: 2.09%.

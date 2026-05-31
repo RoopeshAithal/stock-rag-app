@@ -1,0 +1,3 @@
+BKNG regime from 2025-06-10 to 2025-07-09.
+Start price: 218.23, End price: 225.39.
+Window return: 3.28%, Volatility: 1.42%.

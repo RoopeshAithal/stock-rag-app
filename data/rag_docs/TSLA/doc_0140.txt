@@ -1,0 +1,3 @@
+TSLA regime from 2025-11-20 to 2025-12-18.
+Start price: 395.23, End price: 483.37.
+Window return: 22.30%, Volatility: 2.58%.

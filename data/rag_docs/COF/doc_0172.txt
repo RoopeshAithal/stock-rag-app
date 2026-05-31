@@ -1,0 +1,3 @@
+COF regime from 2026-01-08 to 2026-02-05.
+Start price: 253.62, End price: 215.18.
+Window return: -15.16%, Volatility: 2.75%.

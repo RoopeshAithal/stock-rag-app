@@ -1,0 +1,41 @@
+{
+  "ticker": "DE",
+  "score": 0.09109960760793086,
+  "direction": "neutral",
+  "confidence": 0.44170764934448464,
+  "primary_horizon": 5,
+  "expected_return": 0.038727577941417256,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.01009872795300668,
+      "expected_min": 0.01009872795300668,
+      "expected_max": 0.01009872795300668,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.038727577941417256,
+      "expected_min": -0.0023395520121774925,
+      "expected_max": 0.055204520464301465,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.01653876759675684,
+      "expected_min": -0.023340897617013866,
+      "expected_max": 0.10068331191091803,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.3690093277313882,
+    "momentum": -0.38357240974809975,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 542.1799926757812,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "CVX",
+  "avg_polarity": 0.10833333333333334,
+  "items": [
+    {
+      "date": "2026-05-31",
+      "title": "CVX sees strong demand in key markets",
+      "polarity": 0.21666666666666667,
+      "source": "dummy"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "Analysts remain cautious on CVX valuation",
+      "polarity": 0.0,
+      "source": "dummy"
+    }
+  ]
+}

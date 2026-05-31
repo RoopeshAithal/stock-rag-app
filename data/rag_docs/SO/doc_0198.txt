@@ -1,0 +1,3 @@
+SO regime from 2026-02-17 to 2026-03-16.
+Start price: 91.24, End price: 98.30.
+Window return: 7.73%, Volatility: 1.19%.

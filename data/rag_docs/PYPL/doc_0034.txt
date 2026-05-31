@@ -1,0 +1,3 @@
+PYPL regime from 2025-06-23 to 2025-07-21.
+Start price: 71.63, End price: 74.42.
+Window return: 3.90%, Volatility: 1.82%.

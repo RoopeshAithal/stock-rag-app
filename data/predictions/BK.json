@@ -1,0 +1,41 @@
+{
+  "ticker": "BK",
+  "score": 0.05844594488203428,
+  "direction": "neutral",
+  "confidence": 0.49022251983178416,
+  "primary_horizon": 5,
+  "expected_return": -0.0038115140327222075,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0034026244581923603,
+      "expected_min": 0.0034026244581923603,
+      "expected_max": 0.0034026244581923603,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.0038115140327222075,
+      "expected_min": -0.02262905717311513,
+      "expected_max": 0.020558324735145527,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.01544874666776357,
+      "expected_min": -0.034476169940770365,
+      "expected_max": 0.04776231436342547,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.038096693613051055,
+    "momentum": 0.18609208340631048,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 139.42999267578125,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

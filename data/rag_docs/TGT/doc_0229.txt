@@ -1,0 +1,3 @@
+TGT regime from 2026-04-01 to 2026-04-29.
+Start price: 119.32, End price: 126.67.
+Window return: 6.16%, Volatility: 1.79%.

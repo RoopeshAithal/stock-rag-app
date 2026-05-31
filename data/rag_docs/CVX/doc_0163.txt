@@ -1,0 +1,3 @@
+CVX regime from 2025-12-24 to 2026-01-23.
+Start price: 147.69, End price: 163.61.
+Window return: 10.78%, Volatility: 1.83%.

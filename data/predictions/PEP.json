@@ -1,0 +1,41 @@
+{
+  "ticker": "PEP",
+  "score": -0.08372615029181796,
+  "direction": "neutral",
+  "confidence": 0.7061858613067804,
+  "primary_horizon": 5,
+  "expected_return": 0.004293849245933112,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0019045616975756907,
+      "expected_min": 0.0019045616975756907,
+      "expected_max": 0.0019045616975756907,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.004293849245933112,
+      "expected_min": -0.00829654061809546,
+      "expected_max": 0.015986817666742415,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.011516208208347256,
+      "expected_min": -0.03488249649490086,
+      "expected_max": 0.02577144421350177,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.042912123137667124,
+    "momentum": -0.4228295950910606,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 144.19000244140625,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

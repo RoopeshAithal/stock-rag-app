@@ -1,0 +1,3 @@
+AXP regime from 2026-02-05 to 2026-03-05.
+Start price: 353.50, End price: 306.24.
+Window return: -13.37%, Volatility: 2.77%.

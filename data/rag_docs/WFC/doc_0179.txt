@@ -1,0 +1,3 @@
+WFC regime from 2026-01-20 to 2026-02-17.
+Start price: 85.75, End price: 86.90.
+Window return: 1.35%, Volatility: 1.78%.

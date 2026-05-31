@@ -1,0 +1,3 @@
+MMM regime from 2026-01-23 to 2026-02-20.
+Start price: 161.12, End price: 166.20.
+Window return: 3.15%, Volatility: 2.06%.

@@ -1,0 +1,3 @@
+WFC regime from 2025-07-01 to 2025-07-29.
+Start price: 79.74, End price: 80.88.
+Window return: 1.42%, Volatility: 1.68%.

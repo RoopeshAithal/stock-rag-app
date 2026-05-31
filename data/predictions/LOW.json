@@ -1,0 +1,41 @@
+{
+  "ticker": "LOW",
+  "score": -0.2412883591181091,
+  "direction": "down",
+  "confidence": 0.5267437369192122,
+  "primary_horizon": 5,
+  "expected_return": -0.023290210831072255,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.002899450226752298,
+      "expected_min": -0.002899450226752298,
+      "expected_max": -0.002899450226752298,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.023290210831072255,
+      "expected_min": -0.033867961065821385,
+      "expected_max": 0.004313662694227283,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.0563319190511131,
+      "expected_min": -0.08501863142186013,
+      "expected_max": 0.02940988692628741,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.22878038236747844,
+    "momentum": -0.4711420412627146,
+    "sentiment": 0.07222222222222223
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 214.3600006103516,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:40+00:00"
+}

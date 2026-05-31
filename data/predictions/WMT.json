@@ -1,0 +1,41 @@
+{
+  "ticker": "WMT",
+  "score": -0.0634764780248084,
+  "direction": "neutral",
+  "confidence": 0.5129198470719957,
+  "primary_horizon": 5,
+  "expected_return": 0.015523613729052487,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.011801952928451565,
+      "expected_min": 0.011801952928451565,
+      "expected_max": 0.011801952928451565,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.015523613729052487,
+      "expected_min": -0.003625274086467323,
+      "expected_max": 0.03196701771674604,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.013055930202900513,
+      "expected_min": -0.026288871899703047,
+      "expected_max": 0.04626561513588223,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.15400106762457447,
+    "momentum": -0.5404789283458743,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 115.75,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

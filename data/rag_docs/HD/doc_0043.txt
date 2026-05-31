@@ -1,0 +1,3 @@
+HD regime from 2025-07-07 to 2025-08-01.
+Start price: 360.80, End price: 366.71.
+Window return: 1.64%, Volatility: 1.19%.

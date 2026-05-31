@@ -1,0 +1,3 @@
+CSCO regime from 2026-01-13 to 2026-02-10.
+Start price: 75.06, End price: 85.82.
+Window return: 14.34%, Volatility: 1.73%.

@@ -1,0 +1,3 @@
+COP regime from 2025-08-12 to 2025-09-09.
+Start price: 91.56, End price: 89.65.
+Window return: -2.08%, Volatility: 1.54%.

@@ -1,0 +1,3 @@
+NFLX regime from 2026-03-19 to 2026-04-16.
+Start price: 91.74, End price: 107.79.
+Window return: 17.50%, Volatility: 1.48%.

@@ -1,0 +1,3 @@
+SPG regime from 2026-02-05 to 2026-03-05.
+Start price: 195.01, End price: 198.74.
+Window return: 1.91%, Volatility: 1.23%.

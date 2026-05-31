@@ -1,0 +1,41 @@
+{
+  "ticker": "USB",
+  "score": 0.010892798506184173,
+  "direction": "neutral",
+  "confidence": 0.37105651540730883,
+  "primary_horizon": 5,
+  "expected_return": 0.0073613071659247575,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.0027889781938623902,
+      "expected_min": 0.0027889781938623902,
+      "expected_max": 0.0027889781938623902,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.0073613071659247575,
+      "expected_min": -0.015838150812240194,
+      "expected_max": 0.025847051294799705,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.007278922148627742,
+      "expected_min": -0.04922683512793448,
+      "expected_max": 0.0498381694299308,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.07348039233482731,
+    "momentum": -0.1583802144263205,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 54.84999847412109,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:43+00:00"
+}

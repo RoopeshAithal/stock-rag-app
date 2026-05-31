@@ -1,0 +1,41 @@
+{
+  "ticker": "AMGN",
+  "score": 0.07809234531315962,
+  "direction": "neutral",
+  "confidence": 0.31930521002852347,
+  "primary_horizon": 5,
+  "expected_return": 0.01743259761962873,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.007688427361341443,
+      "expected_min": 0.007688427361341443,
+      "expected_max": 0.007688427361341443,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.01743259761962873,
+      "expected_min": -0.015105808088040884,
+      "expected_max": 0.047963026126928134,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.035694902820362785,
+      "expected_min": -0.020915477698283967,
+      "expected_max": 0.07227951323931009,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.17258128551819343,
+    "momentum": -0.0995498803753459,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 336.7900085449219,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:37+00:00"
+}

@@ -1,0 +1,3 @@
+RTX regime from 2025-12-16 to 2026-01-14.
+Start price: 178.59, End price: 197.36.
+Window return: 10.51%, Volatility: 1.33%.

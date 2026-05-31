@@ -1,0 +1,3 @@
+PEP regime from 2026-02-24 to 2026-03-23.
+Start price: 168.04, End price: 150.88.
+Window return: -10.21%, Volatility: 0.97%.

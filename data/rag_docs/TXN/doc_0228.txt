@@ -1,0 +1,3 @@
+TXN regime from 2026-03-31 to 2026-04-28.
+Start price: 193.16, End price: 263.66.
+Window return: 36.50%, Volatility: 4.57%.

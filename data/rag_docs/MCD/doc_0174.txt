@@ -1,0 +1,3 @@
+MCD regime from 2026-01-12 to 2026-02-09.
+Start price: 305.05, End price: 323.79.
+Window return: 6.15%, Volatility: 0.75%.

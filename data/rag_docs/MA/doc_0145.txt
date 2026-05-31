@@ -1,0 +1,3 @@
+MA regime from 2025-11-28 to 2025-12-26.
+Start price: 548.76, End price: 577.74.
+Window return: 5.28%, Volatility: 1.32%.

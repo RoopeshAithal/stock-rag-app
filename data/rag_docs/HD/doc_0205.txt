@@ -1,0 +1,3 @@
+HD regime from 2026-02-26 to 2026-03-25.
+Start price: 372.60, End price: 332.51.
+Window return: -10.76%, Volatility: 1.61%.

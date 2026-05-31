@@ -1,0 +1,3 @@
+PM regime from 2025-06-03 to 2025-07-01.
+Start price: 176.13, End price: 172.75.
+Window return: -1.92%, Volatility: 1.15%.

@@ -1,0 +1,3 @@
+AAPL regime from 2026-03-23 to 2026-04-20.
+Start price: 251.26, End price: 272.80.
+Window return: 8.57%, Volatility: 1.40%.

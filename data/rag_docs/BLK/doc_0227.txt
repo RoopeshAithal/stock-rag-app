@@ -1,0 +1,3 @@
+BLK regime from 2026-03-30 to 2026-04-27.
+Start price: 934.06, End price: 1056.86.
+Window return: 13.15%, Volatility: 1.72%.

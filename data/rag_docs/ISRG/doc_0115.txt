@@ -1,0 +1,3 @@
+ISRG regime from 2025-10-16 to 2025-11-12.
+Start price: 434.62, End price: 572.45.
+Window return: 31.71%, Volatility: 3.36%.

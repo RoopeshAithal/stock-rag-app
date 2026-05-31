@@ -1,0 +1,41 @@
+{
+  "ticker": "AAPL",
+  "score": 0.18101586321212285,
+  "direction": "up",
+  "confidence": 0.5584923291747572,
+  "primary_horizon": 5,
+  "expected_return": -0.00644188495318544,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": 0.007056196945589355,
+      "expected_min": 0.007056196945589355,
+      "expected_max": 0.007056196945589355,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.00644188495318544,
+      "expected_min": -0.0117910971416057,
+      "expected_max": 0.018222736433728882,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.018226255922714662,
+      "expected_min": -0.05202806025263155,
+      "expected_max": 0.03495379093435004,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.06432988900253299,
+    "momentum": 0.6383804701557423,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 312.0599975585937,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:36+00:00"
+}

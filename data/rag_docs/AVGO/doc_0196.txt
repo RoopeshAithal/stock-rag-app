@@ -1,0 +1,3 @@
+AVGO regime from 2026-02-12 to 2026-03-12.
+Start price: 330.48, End price: 335.27.
+Window return: 1.45%, Volatility: 2.03%.

@@ -1,0 +1,41 @@
+{
+  "ticker": "NVDA",
+  "score": 0.031059240540827412,
+  "direction": "neutral",
+  "confidence": 0.47191005831765354,
+  "primary_horizon": 5,
+  "expected_return": -0.015157587392812732,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.01233563350083543,
+      "expected_min": -0.01233563350083543,
+      "expected_max": -0.01233563350083543,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": -0.015157587392812732,
+      "expected_min": -0.04030499361085147,
+      "expected_max": 0.01098170194307696,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": -0.005054126876751497,
+      "expected_min": -0.0711158734328222,
+      "expected_max": 0.05415002605174649,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": -0.1504256128107504,
+    "momentum": 0.28201793426511984,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 211.13999938964844,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:41+00:00"
+}

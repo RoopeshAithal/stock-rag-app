@@ -1,0 +1,41 @@
+{
+  "ticker": "PFE",
+  "score": 0.018915526596290363,
+  "direction": "neutral",
+  "confidence": 0.5941279152584173,
+  "primary_horizon": 5,
+  "expected_return": 0.00043681295145716616,
+  "forecasts": {
+    "1d": {
+      "horizon_days": 1,
+      "expected_return": -0.0018744845523688935,
+      "expected_min": -0.0018744845523688935,
+      "expected_max": -0.0018744845523688935,
+      "n_neighbors": 10
+    },
+    "weekly": {
+      "horizon_days": 5,
+      "expected_return": 0.00043681295145716616,
+      "expected_min": -0.016823423964479667,
+      "expected_max": 0.016144331100672184,
+      "n_neighbors": 10
+    },
+    "monthly": {
+      "horizon_days": 20,
+      "expected_return": 0.006815616689994697,
+      "expected_min": -0.022772823193967562,
+      "expected_max": 0.029200545301252157,
+      "n_neighbors": 10
+    }
+  },
+  "components": {
+    "rag_signal": 0.004368101732671218,
+    "momentum": -0.016450636455706377,
+    "sentiment": 0.10833333333333334
+  },
+  "n_neighbors": 10,
+  "as_of": "2026-05-29",
+  "last_close": 26.18000030517578,
+  "horizon": 5,
+  "generated_at": "2026-05-31T18:49:42+00:00"
+}

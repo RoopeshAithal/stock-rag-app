@@ -1,0 +1,3 @@
+COP regime from 2026-02-11 to 2026-03-11.
+Start price: 109.54, End price: 116.17.
+Window return: 6.05%, Volatility: 1.72%.

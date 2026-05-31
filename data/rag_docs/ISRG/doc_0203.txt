@@ -1,0 +1,3 @@
+ISRG regime from 2026-02-24 to 2026-03-23.
+Start price: 494.02, End price: 478.04.
+Window return: -3.23%, Volatility: 1.32%.
