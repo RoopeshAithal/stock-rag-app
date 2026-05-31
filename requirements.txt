@@ -1,0 +1,11 @@
+pandas
+yfinance
+requests
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+textblob
+typer
+rich
+streamlit

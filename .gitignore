@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Local-only artifacts (rebuildable from data/)
+cache/
+
+# Logs
+logs/
+
+# Private state (your portfolio holdings stay local)
+data/portfolios.json
+data/universe.txt
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
